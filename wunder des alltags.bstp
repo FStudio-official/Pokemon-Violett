@@ -1,0 +1,93 @@
+price=13
+0010|Raupy|Grass|50|[[Fadenschuss|Grass|10|100|Das verteidigende Pokemon kann in seinem nächsten Zug nicht angreifen|🌿]]|1|Common
+0011|Safcon|Grass|80|[[Härtner|Colorless|0|100|Wirf eine Münze. Bei Kopf wird der Schaden im nächsten Zug um 20 reduziert|◇]]|2|Uncommon
+0012|Smettbo|Grass|130|[[Sonnige Brise|Grass|60|100|Heile 20 Schadenspunkte von diesem Pokemon|🌿🌿]]|1|Rare
+0021|Knuddeluff|Colorless|100|[[Walzer|Colorless|40|100| |◇◇],[Knuddelsturm|Colorless|70|100| |◇◇◇]]|2|Uncommon
+0025|Pikachu|Lightning|60|[[Donnerschock|Lightning|20|100|Wirf eine Münze. Bei Kopf ist das verteidigende Pokemon paralysiert|⚡]]|1|Common
+0037|Vulpix|Fire|50|[[Glut|Fire|20|100| |🔥]]|1|Common
+0038|Vulnona|Fire|90|[[Feuerwirbel|Fire|60|100|Lege 1 Feuer-Energie von diesem Pokemon auf den Ablagestapel|🔥🔥🔥]]|2|Uncommon
+0054|Enton|Water|60|[[Aquaknarre|Water|20|100| |💧]]|1|Common
+0055|Entoron|Water|100|[[Aquaknarre|Water|40|100| |💧💧],[Hydropuls|Water|70|100|Das verteidigende Pokemon ist verwirrt|💧💧💧]]|2|Uncommon
+0060|Quapsel|Water|50|[[Platscher|Water|10|100| |💧]]|1|Common
+0061|Quaputzi|Water|80|[[Aquaknarre|Water|30|100| |💧💧]]|1|Uncommon
+0062|Quappo|Water|110|[[Hydropumpe|Water|80|100| |💧💧💧]]|3|Rare
+0065|Simsala|Psychic|100|[[Psychokinese|Psychic|50|100| |🔮🔮],[Psi-Schlag|Psychic|90|100| |🔮🔮🔮]]|2|Secret Rare
+0077|Ponita|Fire|60|[[Glut|Fire|30|100| |🔥🔥]]|1|Common
+0078|Gallopa|Fire|100|[[Feuertritt|Fire|70|100| |🔥🔥🔥]]|2|Ultra Rare
+0079|Flegmon|Water|70|[[Kopfnuss|Colorless|20|100| |◇]]|2|Common
+0080|Lahmus|Water|100|[[Psychowelle|Psychic|70|100| |🔮🔮🔮]]|2|Uncommon
+0092|Nebulak|Psychic|50|[[Schlecker|Psychic|10|100|Wirf eine Münze. Bei Kopf ist das verteidigende Pokemon paralysiert|🔮]]|1|Common
+0093|Alpollo|Psychic|70|[[Schlecker|Psychic|20|100|Wirf eine Münze. Bei Kopf ist das verteidigende Pokemon paralysiert|🔮]]|1|Uncommon
+0094|Gengar|Psychic|110|[[Nachtnebel|Psychic|50|100| |🔮🔮],[Traumfresser|Psychic|90|100|Dieser Angriff kann nur verwendet werden, wenn das verteidigende Pokemon schläft|🔮🔮🔮]]|2|Secret Rare
+0095|Onix|Fighting|90|[[Steinwurf|Fighting|30|100| |⛰️⛰️],[Felsgrab|Fighting|60|90| |⛰️⛰️⛰️]]|3|Ultra Rare
+0100|Voltobal|Lightning|50|[[Tackle|Colorless|10|100| |◇],[Elektroschock|Lightning|20|100|Wirf eine Münze. Bei Kopf ist das verteidigende Pokemon paralysiert|⚡]]|1|Common
+0102|Elektek|Lightning|80|[[Donnerschock|Lightning|20|100|Wirf eine Münze. Bei Kopf ist das verteidigende Pokemon paralysiert|⚡],[Donnerfaust|Lightning|50|100| |⚡⚡⚡]]|2|Ultra Rare
+0103|Kokowei|Grass|100|[[Samenbomben|Grass|40|100| |🌿🌿],[Psychoschlag|Psychic|80|100| |🔮🔮🔮]]|2|Ultra Rare
+0104|Tragosso|Fighting|50|[[Kopfnuss|Colorless|10|100| |◇],[Knochenkeule|Fighting|30|100| |⛰️⛰️]]|1|Common
+0105|Knogga|Fighting|90|[[Knochenkeule|Fighting|40|100| |⛰️⛰️],[Knochensturm|Fighting|70|100|Wirf eine Münze. Bei Kopf kann das verteidigende Pokemon in der nächsten Runde nicht angreifen|⛰️⛰️⛰️]]|1|Ultra Rare
+0108|Smogon|Grass|50|[[Giftgas|Grass|0|70|Das verteidigende Pokemon ist vergiftet|🌿],[Tackle|Colorless|20|100| |◇◇]]|1|Common
+0109|Smogmog|Grass|100|[[Giftwolke|Grass|30|100|Das verteidigende Pokemon ist vergiftet|🌿🌿],[Explosion|Colorless|100|100|Smogmog fügt sich selbst 50 Schadenspunkte zu|◇◇◇]]|2|Ultra Rare
+0110|Rihorn|Fighting|80|[[Stampfer|Fighting|30|100| |⛰️⛰️],[Hornattacke|Fighting|50|100| |⛰️⛰️◇]]|3|Common
+0111|Rizeros|Fighting|110|[[Hornattacke|Fighting|50|100| |⛰️⛰️],[Felsgrab|Fighting|80|90| |⛰️⛰️⛰️]]|3|Ultra Rare
+0113|Chaneira|Colorless|120|[[Heilung|Colorless|0|100|Heile 30 Schadenspunkte von diesem Pokemon|◇◇]]|2|Ultra Rare
+0114|Tangela|Grass|70|[[Rankenhieb|Grass|20|100| |🌿],[Würgegriff|Grass|50|80|Wirf eine Münze. Bei Kopf kann das verteidigende Pokemon in der nächsten Runde nicht angreifen|🌿🌿🌿]]|2|Uncommon
+0129|Karpador|Water|30|[[Platscher|Water|0|100|Dieser Angriff macht nichts|💧]]|1|Common
+0130|Garados|Water|120|[[Biss|Water|30|100| |💧💧],[Hydropumpe|Water|100|100|Dieser Angriff macht 20 Schadenspunkte weniger für jede fehlende Wasser-Energie|💧💧💧💧]]|3|Secret Rare
+0131|Lapras|Water|100|[[Eissplitter|Water|30|100| |💧💧],[Aurorastrahl|Water|70|100| |💧💧💧]]|2|Ultra Rare
+0132|Ditto|Colorless|60|[[Wandlung|Colorless|0|100|Ditto kann einen Angriff des verteidigenden Pokemon kopieren|◇◇]]|1|Secret Rare
+0133|Evoli|Colorless|60|[[Tackle|Colorless|20|100| |◇]]|1|Common
+0134|Aquana|Water|100|[[Aquaknarre|Water|30|100| |💧💧],[Hydropumpe|Water|80|100| |💧💧💧]]|2|Ultra Rare
+0135|Blitza|Lightning|90|[[Donnerschock|Lightning|30|100|Wirf eine Münze. Bei Kopf ist das verteidigende Pokemon paralysiert|⚡⚡],[Donner|Lightning|70|100|Lege 1 Lightning-Energie von Blitza auf den Ablagestapel|⚡⚡⚡]]|1|Ultra Rare
+0136|Flamara|Fire|90|[[Glut|Fire|30|100| |🔥🔥],[Feuerzahn|Fire|70|100|Wirf eine Münze. Bei Kopf ist das verteidigende Pokemon verbrannt|🔥🔥🔥]]|2|Ultra Rare
+0137|Porygon|Colorless|60|[[Umwandlung|Colorless|0|100|Ändere den Typ des verteidigenden Pokemon in einen Typ deiner Wahl|◇◇]]|1|Secret Rare
+0140|Kabuto|Fighting|60|[[Kratzer|Colorless|10|100| |◇],[Sandangriff|Fighting|20|100|Der nächste Angriff des verteidigenden Pokemon hat eine Trefferchance von 50|⛰️]]|1|Uncommon
+0141|Kabutops|Fighting|100|[[Schlitzer|Fighting|40|100| |⛰️⛰️],[Aquaklinge|Water|70|100| |💧💧⛰️]]|2|Ultra Rare
+0142|Aerodactyl|Colorless|90|[[Flügelschlag|Colorless|30|100| |◇◇],[Urzeitkraft|Fighting|70|100|Entferne 1 Energie vom verteidigenden Pokemon|⛰️⛰️◇]]|1|Secret Rare
+0143|Relaxo|Colorless|120|[[Tackle|Colorless|30|100| |◇◇],[Schlafender Riese|Colorless|80|100|Relaxo schläft nach diesem Angriff ein|◇◇◇◇]]|4|Ultra Rare
+0144|Arktos|Water|100|[[Eisstrahl|Water|70|100|Das verteidigende Pokemon ist paralysiert|💧💧💧]]|2|Secret Rare
+0145|Zapdos|Lightning|100|[[Donner|Lightning|90|100|Lege 1 Lightning-Energie von Zapdos auf den Ablagestapel|⚡⚡⚡⚡]]|2|Secret Rare
+0146|Lavados|Fire|100|[[Feuersturm|Fire|90|100|Lege 1 Feuer-Energie von Lavados auf den Ablagestapel|🔥🔥🔥🔥]]|2|Secret Rare
+0149|Dragoran|Dragon|120|[[Drachenstoß|Dragon|60|100| |🐉🐉],[Hyperstrahl|Dragon|100|100|Lege 1 Energie vom verteidigenden Pokemon auf den Ablagestapel|🐉🐉🐉]]|3|Secret Rare
+0150|Mewtu|Psychic|120|[[Psychowelle|Psychic|40|100| |🔮🔮],[Psychoantrieb|Psychic|100|100|Lege 2 Energie von Mewtu auf den Ablagestapel|🔮🔮🔮🔮]]|2|Secret Rare
+0025|Pikachu|Lightning|60|[[Donnerschock|Lightning|20|100|Wirf eine Münze. Bei Kopf ist das verteidigende Pokemon paralysiert|⚡]]|1|Secret Rare
+0039|Pummeluff|Colorless|60|[[Puppy-Pile|Colorless|20x|100|Dieser Angriff fügt 20 Schadenspunkte für jedes deiner Pokemon mit der Attacke Puppy-Pile zu|◇◇]]|1|Secret Rare
+0070|Feelinara|Psychic|100|[[Feenwind|Psychic|40|100| |🔮🔮],[Zauberfunken|Psychic|80|100| |🔮🔮🔮]]|1|Secret Rare
+0080|Lahmus|Psychic|100|[[Psychowelle|Psychic|70|100| |🔮🔮🔮]]|2|Secret Rare
+0115|Kangama|Colorless|100|[[Kometenhieb|Colorless|30|100| |◇◇],[Mega-Kick|Colorless|70|90| |◇◇◇◇]]|2|Secret Rare
+0130|Mega-Garados-ex|Water|210|[[Zerstörerische Welle|Water|100+|100|Dieser Angriff fügt 30 weitere Schadenspunkte für jede Energie auf dem Aktiven Pokemon deines Gegners zu|💧💧💧]]|3|Secret Rare
+0132|Ditto|Colorless|60|[[Wandlung|Colorless|0|100|Ditto kopiert einen Angriff des Aktiven Pokemon deines Gegners|◇◇]]|1|Secret Rare
+0134|Aquana-ex|Water|160|[[Hydrostoß|Water|80|100| |💧💧💧]]|2|Secret Rare
+0143|Relaxo|Colorless|120|[[Puppy-Pile|Colorless|20x|100|Dieser Angriff fügt 20 Schadenspunkte für jedes deiner Pokemon mit der Attacke Puppy-Pile zu|◇◇],[Schlafender Riese|Colorless|80|100|Relaxo schläft nach diesem Angriff ein|◇◇◇◇]]|4|Secret Rare
+0143|Relaxo|Colorless|120|[[Puppy-Pile|Colorless|20x|100|Dieser Angriff fügt 20 Schadenspunkte für jedes deiner Pokemon mit der Attacke Puppy-Pile zu|◇◇],[Schlafender Riese|Colorless|80|100|Relaxo schläft nach diesem Angriff ein|◇◇◇◇]]|4|Secret Rare
+0179|Voltilamm|Lightning|60|[[Tackle|Colorless|10|100| |◇],[Donnerschock|Lightning|20|100|Wirf eine Münze. Bei Kopf ist das verteidigende Pokemon paralysiert|⚡]]|1|Secret Rare
+0180|Waaty|Lightning|80|[[Donnerschock|Lightning|30|100|Wirf eine Münze. Bei Kopf ist das verteidigende Pokemon paralysiert|⚡⚡]]|1|Secret Rare
+0181|Ampharos|Lightning|120|[[Donnerschlag|Lightning|50|100| |⚡⚡],[Gigawattblitz|Lightning|100|100|Lege 1 Lightning-Energie von Ampharos auf den Ablagestapel|⚡⚡⚡]]|2|Secret Rare
+0216|Teddiursa|Colorless|60|[[Kratzfurie|Colorless|20|100| |◇]]|1|Common
+0217|Ursaring|Colorless|100|[[Klauenhieb|Colorless|40|100| |◇◇],[Rückschlag|Colorless|80|100| |◇◇◇]]|2|Uncommon
+0302|Mega-Zobiris-ex|Darkness|170|[[Juwelenhagel|Darkness|80|100| |🌑🌑🌑]]|1|Ultra Rare
+0349|Barschwa|Water|30|[[Platscher|Colorless|10|100| |◇]]|1|Common
+0350|Milotic-ex|Water|140|[[Wasserwelle|Water|80|100|Das Aktive Pokemon deines Gegners schläft ein|💧💧💧]]|2|Ultra Rare
+0350|Milotic-ex|Water|140|[[Wasserwelle|Water|80|100|Das Aktive Pokemon deines Gegners schläft ein|💧💧💧]]|2|Secret Rare
+0350|Milotic-ex|Water|140|[[Wasserwelle|Water|80|100|Das Aktive Pokemon deines Gegners schläft ein|💧💧💧]]|2|Secret Rare
+0393|Plinfa|Water|60|[[Platscher|Water|10|100| |💧]]|1|Secret Rare
+0446|Mampfaxo|Colorless|80|[[Puppy-Pile|Colorless|20x|100|Dieser Angriff fügt 20 Schadenspunkte für jedes deiner Pokemon mit der Attacke Puppy-Pile zu|◇◇]]|2|Rare
+0446|Mampfaxo|Colorless|80|[[Puppy-Pile|Colorless|20x|100|Dieser Angriff fügt 20 Schadenspunkte für jedes deiner Pokemon mit der Attacke Puppy-Pile zu|◇◇]]|2|Secret Rare
+0570|Hisui-Zorua|Darkness|60|[[Kratzfurie|Colorless|20|100| |◇]]|1|Common
+0571|Hisui-Zoroark-ex|Colorless|150|[[Puppy-Pile|Colorless|20x|100|Dieser Angriff fügt 20 Schadenspunkte für jedes deiner Pokemon mit der Attacke Puppy-Pile zu|◇◇◇]]|1|Ultra Rare
+0571|Hisui-Zoroark-ex|Colorless|150|[[Puppy-Pile|Colorless|20x|100|Dieser Angriff fügt 20 Schadenspunkte für jedes deiner Pokemon mit der Attacke Puppy-Pile zu|◇◇◇]]|1|Secret Rare
+0676|Coiffwaff|Colorless|80|[[Tackle|Colorless|20|100| |◇]]|1|Common
+0700|Feelinara|Psychic|100|[[Feenwind|Psychic|40|100| |🔮🔮],[Zauberfunken|Psychic|80|100| |🔮🔮🔮]]|1|Secret Rare
+0702|Dedenne-ex|Lightning|120|[[Dede-Schaltkreis|Lightning|40x|100|Dieser Angriff fügt 40 Schadenspunkte für jedes Pokemon-Tool zu, das an deinen Pokemon angelegt ist|⚡⚡]]|1|Ultra Rare
+0702|Dedenne-ex|Lightning|120|[[Dede-Schaltkreis|Lightning|40x|100|Dieser Angriff fügt 40 Schadenspunkte für jedes Pokemon-Tool zu, das an deinen Pokemon angelegt ist|⚡⚡]]|1|Secret Rare
+0702|Dedenne-ex|Lightning|120|[[Dede-Schaltkreis|Lightning|40x|100|Dieser Angriff fügt 40 Schadenspunkte für jedes Pokemon-Tool zu, das an deinen Pokemon angelegt ist|⚡⚡]]|1|Secret Rare
+0719|Mega-Diancie-ex|Psychic|170|[[Brillanter Sturm|Psychic|40+|100|Dieser Angriff fügt 20 weitere Schadenspunkte für jede Psycho-Energie hinzu, die an deine Pokemon angelegt ist|◇◇◇]]|1|Ultra Rare
+0719|Mega-Diancie-ex|Psychic|170|[[Brillanter Sturm|Psychic|40+|100|Dieser Angriff fügt 20 weitere Schadenspunkte für jede Psycho-Energie hinzu, die an deine Pokemon angelegt ist|◇◇◇]]|1|Secret Rare
+0747|Mareanie|Darkness|60|[[Giftstachel|Darkness|20|100|Das verteidigende Pokemon ist vergiftet|🌑]]|1|Secret Rare
+0764|Schlaraffel|Colorless|100|[[Puppy-Pile|Colorless|20x|100|Dieser Angriff fügt 20 Schadenspunkte für jedes deiner Pokemon mit der Attacke Puppy-Pile zu|◇◇],[Knabberbiss|Colorless|60|100| |◇◇◇]]|2|Ultra Rare
+0764|Schlaraffel|Colorless|100|[[Puppy-Pile|Colorless|20x|100|Dieser Angriff fügt 20 Schadenspunkte für jedes deiner Pokemon mit der Attacke Puppy-Pile zu|◇◇],[Knabberbiss|Colorless|60|100| |◇◇◇]]|2|Secret Rare
+0765|Enamorus|Psychic|90|[[Verliebter Schlag|Psychic|50|100| |🔮🔮]]|1|Rare
+0800|Mimigma|Psychic|70|[[Schreckensblick|Psychic|20|100| |🔮],[Spukball|Psychic|50|100| |🔮🔮]]|1|Rare
+0819|Raffel|Colorless|60|[[Puppy-Pile|Colorless|20x|100|Dieser Angriff fügt 20 Schadenspunkte für jedes deiner Pokemon mit der Attacke Puppy-Pile zu|◇◇]]|1|Common
+0820|Schlaraffel|Colorless|100|[[Puppy-Pile|Colorless|20x|100|Dieser Angriff fügt 20 Schadenspunkte für jedes deiner Pokemon mit der Attacke Puppy-Pile zu|◇◇],[Knabberbiss|Colorless|60|100| |◇◇◇]]|2|Uncommon
+0876|Servol-ex|Psychic|130|[[Psychoklinge|Psychic|60|100| |🔮🔮],[Synchronangriff|Psychic|100|100| |🔮🔮🔮]]|1|Secret Rare
+0901|Ursaluna|Colorless|140|[[Mondhieb|Colorless|60|100| |◇◇],[Gigantischer Prankenhieb|Colorless|100|100| |◇◇◇◇]]|3|Rare

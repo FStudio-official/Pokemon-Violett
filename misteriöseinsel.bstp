@@ -1,0 +1,78 @@
+price=18
+0102|Owei|Grass|50|[[Wachstumsschub|Grass|0|100|Lege 1 Pflanzen-Energie aus deiner Energiezone an dieses Pokémon an.|🌿]]|1|Common
+0103|Kokowei|Grass|130|[[Psychokinese|Grass|80+|100|Diese Attacke fügt 20 weitere Schadenspunkte für jede an das Aktive Pokémon deines Gegners angelegte Energie zu.|🌿◇◇◇]]|3|Uncommon
+0251|Celebi-ex|Grass|130|[[Kraftvolles Blühen|Grass|50x|100|Wirf für jede an dieses Pokémon angelegte Energie 1 Münze. Diese Attacke fügt 50 Schadenspunkte mal der Anzahl „Kopf“ zu.|🌿◇◇]]|1|Ultra Rare
+0495|Serpifeu|Grass|70|[[Tackle|Colorless|10|100||◇]]|1|Common
+0496|Efoserp|Grass|80|[[Rankenhieb|Grass|40|100||🌿]]|1|Uncommon
+0497|Serpiroyal|Grass|110|[[Solarstrahl|Grass|70|100||🌿◇◇]]|2|Rare
+0759|Bubungus|Grass|60|[[Schlafpuder|Grass|20|100|Das Aktive Pokémon deines Gegners schläft jetzt.|🌿]]|1|Common
+0760|Lamellux|Grass|90|[[Pilzangriff|Grass|50|100||🌿◇]]|1|Uncommon
+0942|Moruda|Grass|100|[[Ankerwurf|Grass|50|100||🌿◇◇]]|3|Uncommon
+0077|Ponita|Fire|60|[[Glut|Fire|20|100||🔥]]|1|Common
+0078|Gallopa|Fire|100|[[Feuertritt|Fire|50|100||🔥◇]]|1|Uncommon
+0126|Magmar|Fire|80|[[Feuerfaust|Fire|40|100||🔥◇]]|2|Uncommon
+0636|Ignivor|Fire|70|[[Glut|Fire|20|100||🔥]]|2|Common
+0637|Ramoth|Fire|120|[[Feuerwirbel|Fire|80|100|Lege 1 Feuer-Energie von diesem Pokémon ab.|🔥🔥◇]]|1|Rare
+0757|Molunk|Fire|60|[[Giftstachel|Fire|20|100|Das Aktive Pokémon deines Gegners ist jetzt vergiftet.|🔥]]|1|Common
+0758|Amfira|Fire|100|[[Flammenatem|Fire|60|100|Wirf 1 Münze. Bei Zahl kann dieses Pokémon während deines nächsten Zuges nicht angreifen.|🔥🔥]]|2|Uncommon
+0129|Karpador|Water|30|[[Platscher|Colorless|10|100||◇]]|1|Common
+0130|Garados-ex|Water|180|[[Tobender Whirlpool|Water|140|100|Lege 1 zufällige Energie von diesem Pokémon ab.|💧💧💧]]|3|Ultra Rare
+0134|Aquana|Water|120|[[Wasserstrahl|Water|60|100||💧💧◇]]|2|Rare
+0456|Finneon|Water|50|[[Wasserpistole|Water|20|100||💧]]|1|Common
+0457|Lumineon|Water|100|[[Wasserstrahl|Water|50|100||💧◇]]|1|Uncommon
+0833|Kamehaps|Water|60|[[Kopfstoß|Water|20|100||💧]]|1|Common
+0834|Kamalm|Water|120|[[Aquabiss|Water|70|100||💧💧◇]]|3|Uncommon
+0845|Urgl|Water|90|[[Schnabel|Colorless|20|100||◇]]|2|Common
+0025|Pikachu|Lightning|60|[[Donnerschock|Lightning|20|100|Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert.|⚡]]|1|Common
+0026|Raichu|Lightning|100|[[Donnerblitz|Lightning|70|100|Lege alle Elektro-Energien von diesem Pokémon ab.|⚡⚡⚡]]|1|Uncommon
+0125|Elektek|Lightning|80|[[Elektroschock|Lightning|40|100|Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert.|⚡⚡]]|2|Uncommon
+0595|Wattzapf|Lightning|40|[[Funken|Lightning|20|100||⚡]]|1|Common
+0596|Voltula|Lightning|90|[[Elektrokanone|Lightning|50|100||⚡⚡]]|1|Uncommon
+0702|Dedenne|Lightning|60|[[Donnerschock|Lightning|10|100|Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert.|⚡]]|1|Common
+0151|Mew|Psychic|60|[[Psychoklinge|Psychic|20|100||🔮]]|1|Common
+0151|Mew-ex|Psychic|130|[[Genom-Hack|Colorless|0|100|Wähle 1 der Attacken des Aktiven Pokémon deines Gegners und setze sie als diese Attacke ein.|◇◇◇]]|1|Ultra Rare
+0561|Symvolara|Psychic|80|[[Psywelle|Psychic|30|100||🔮◇]]|1|Common
+0605|Pygraulon|Psychic|60|[[Psywelle|Psychic|20|100||🔮]]|1|Common
+0606|Megalon|Psychic|100|[[Psywelle|Psychic|50|100||🔮◇◇]]|2|Uncommon
+0669|Flabébé|Psychic|40|[[Feenwind|Psychic|10|100||🔮]]|1|Common
+0670|Floette|Psychic|70|[[Feenwind|Psychic|30|100||🔮]]|1|Uncommon
+0671|Florges|Psychic|100|[[Blütenkraft|Psychic|60|100|Heile 20 Schadenspunkte bei diesem Pokémon.|🔮🔮◇]]|2|Rare
+0684|Flauschling|Psychic|60|[[Klaps|Psychic|20|100||🔮]]|1|Common
+0685|Sabbaione|Psychic|90|[[Feenwind|Psychic|50|100||🔮◇]]|2|Uncommon
+0056|Menki|Fighting|60|[[Kratzer|Colorless|20|100||◇]]|1|Common
+0057|Rasaff|Fighting|90|[[Wütender Schlag|Fighting|40+|100|Wenn dieses Pokémon durch einen Angriff des Gegners Schaden hat, fügt diese Attacke 60 weitere Schadenspunkte zu.|✊◇]]|1|Uncommon
+0074|Kleinstein|Fighting|70|[[Steinwurf|Fighting|20|100||✊]]|1|Common
+0075|Georok|Fighting|90|[[Steinhieb|Fighting|40|100||✊◇]]|2|Uncommon
+0076|Geowaz|Fighting|160|[[Felssturz|Fighting|70|100|Dieser Angriff fügt außerdem jedem Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu.|✊✊◇]]|4|Rare
+0142|Aerodactyl-ex|Fighting|140|[[Urzeitliches Stampfen|Colorless|50|100|Das Aktive Pokémon deines Gegners kann während seines nächsten Zuges keine Fähigkeiten einsetzen.|◇◇◇]]|1|Ultra Rare
+0800|Marshadow|Fighting|80|[[Vergeltung|Fighting|40+|100|Wenn eines deiner Pokémon während des letzten Zuges deines Gegners durch einen Angriff Schaden genommen hat, fügt diese Attacke 60 weitere Schadenspunkte zu.|✊◇]]|2|Uncommon
+0978|Humanolith|Fighting|100|[[Steinhieb|Fighting|50|100||✊◇]]|3|Uncommon
+0109|Smogon|Darkness|60|[[Tackle|Colorless|20|100||◇]]|1|Common
+0110|Smogmog|Darkness|110|[[Giftwolke|Darkness|60|100|Das Aktive Pokémon deines Gegners ist jetzt vergiftet.|🌑🌑◇]]|3|Uncommon
+0509|Felilou|Darkness|60|[[Kratzer|Colorless|20|100||◇]]|1|Common
+0510|Kleoparda|Darkness|90|[[Klauenhieb|Darkness|50|100||🌑◇]]|1|Uncommon
+0542|Toxiped|Darkness|60|[[Giftstachel|Darkness|20|100|Das Aktive Pokémon deines Gegners ist jetzt vergiftet.|🌑]]|1|Common
+0543|Rollum|Darkness|80|[[Giftstachel|Darkness|30|100|Das Aktive Pokémon deines Gegners ist jetzt vergiftet.|🌑◇]]|2|Uncommon
+0545|Cerapendra|Darkness|120|[[Giftstoß|Darkness|60|100|Das Aktive Pokémon deines Gegners ist jetzt vergiftet.|🌑🌑◇]]|3|Rare
+0621|Shardrago|Dragon|100|[[Drachenhieb|Dragon|50|100||🐉◇]]|3|Rare
+0016|Taubsi|Colorless|60|[[Windstoß|Colorless|20|100||◇]]|1|Common
+0017|Tauboga|Colorless|80|[[Flügelangriff|Colorless|40|100||◇◇]]|1|Uncommon
+0018|Tauboss-ex|Colorless|140|[[Sturmflug|Colorless|80|100|Lege 1 Energie von diesem Pokémon ab.|◇◇◇]]|1|Ultra Rare
+0128|Tauros|Colorless|100|[[Hornstoß|Colorless|40|100||◇◇]]|2|Rare
+0133|Evoli|Colorless|60|[[Tackle|Colorless|20|100||◇]]|1|Common
+0739|Plaudagei|Colorless|70|[[Nachahmung|Colorless|0|100|Wähle 1 der Attacken des Aktiven Pokémon deines Gegners und setze sie als diese Attacke ein.|◇◇◇]]|1|Uncommon
+0103|Kokowei|Grass|130|[[Psychokinese|Grass|80+|100|Diese Attacke fügt 20 weitere Schadenspunkte für jede an das Aktive Pokémon deines Gegners angelegte Energie zu.|🌿◇◇◇]]|3|Secret Rare
+0497|Serpiroyal|Grass|110|[[Solarstrahl|Grass|70|100||🌿◇◇]]|2|Secret Rare
+0757|Molunk|Fire|60|[[Giftstachel|Fire|20|100|Das Aktive Pokémon deines Gegners ist jetzt vergiftet.|🔥]]|1|Secret Rare
+0134|Aquana|Water|120|[[Wasserstrahl|Water|60|100||💧💧◇]]|2|Secret Rare
+0702|Dedenne|Lightning|60|[[Donnerschock|Lightning|10|100|Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert.|⚡]]|1|Secret Rare
+0800|Marshadow|Fighting|80|[[Vergeltung|Fighting|40+|100|Wenn eines deiner Pokémon während des letzten Zuges deines Gegners durch einen Angriff Schaden genommen hat, fügt diese Attacke 60 weitere Schadenspunkte zu.|✊◇]]|2|Secret Rare
+0251|Celebi-ex|Grass|130|[[Kraftvolles Blühen|Grass|50x|100|Wirf für jede an dieses Pokémon angelegte Energie 1 Münze. Diese Attacke fügt 50 Schadenspunkte mal der Anzahl „Kopf“ zu.|🌿◇◇]]|1|Secret Rare
+0130|Garados-ex|Water|180|[[Tobender Whirlpool|Water|140|100|Lege 1 zufällige Energie von diesem Pokémon ab.|💧💧💧]]|3|Secret Rare
+0151|Mew-ex|Psychic|130|[[Genom-Hack|Colorless|0|100|Wähle 1 der Attacken des Aktiven Pokémon deines Gegners und setze sie als diese Attacke ein.|◇◇◇]]|1|Secret Rare
+0142|Aerodactyl-ex|Fighting|140|[[Urzeitliches Stampfen|Colorless|50|100|Das Aktive Pokémon deines Gegners kann während seines nächsten Zuges keine Fähigkeiten einsetzen.|◇◇◇]]|1|Secret Rare
+0018|Tauboss-ex|Colorless|140|[[Sturmflug|Colorless|80|100|Lege 1 Energie von diesem Pokémon ab.|◇◇◇]]|1|Secret Rare
+0151|Mew-ex|Psychic|130|[[Genom-Hack|Colorless|0|100|Wähle 1 der Attacken des Aktiven Pokémon deines Gegners und setze sie als diese Attacke ein.|◇◇◇]]|1|Secret Rare
+0142|Aerodactyl-ex|Fighting|140|[[Urzeitliches Stampfen|Colorless|50|100|Das Aktive Pokémon deines Gegners kann während seines nächsten Zuges keine Fähigkeiten einsetzen.|◇◇◇]]|1|Secret Rare
+0251|Celebi-ex|Grass|130|[[Kraftvolles Blühen|Grass|50x|100|Wirf für jede an dieses Pokémon angelegte Energie 1 Münze. Diese Attacke fügt 50 Schadenspunkte mal der Anzahl „Kopf“ zu.|🌿◇◇]]|1|Secret Rare
+0151|Mew-ex|Psychic|130|[[Genom-Hack|Colorless|0|100|Wähle 1 der Attacken des Aktiven Pokémon deines Gegners und setze sie als diese Attacke ein.|◇◇◇]]|1|Secret Rare

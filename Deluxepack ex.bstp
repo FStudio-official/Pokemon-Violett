@@ -1,0 +1,219 @@
+price=60
+0001|Bisasam|Grass|70|[[Rankenpeitsche|Grass|40|100||🌿◇]]|1|Common
+0013|Hornliu|Grass|50|[[Giftstachel|Grass|20|100|Das Aktive Pokémon deines Gegners ist jetzt vergiftet.|🌿]]|1|Common
+0016|Taubsi|Colorless|60|[[Windstoß|Colorless|20|100||◇]]|1|Common
+0023|Rettan|Darkness|60|[[Giftstachel|Darkness|20|100|Das Aktive Pokémon deines Gegners ist jetzt vergiftet.|🌑]]|1|Common
+0025|Pikachu|Lightning|60|[[Kugelsaat|Lightning|20|100||⚡]]|1|Common
+0037|Vulpix|Fire|50|[[Glut|Fire|20|100||🔥]]|1|Common
+0041|Zubat|Darkness|50|[[Giftstachel|Darkness|10|100|Das Aktive Pokémon deines Gegners ist jetzt vergiftet.|🌑]]|1|Common
+0043|Myrapla|Grass|60|[[Absorber|Grass|20|100|Heile 10 KP bei diesem Pokémon.|🌿]]|1|Common
+0044|Duflor|Grass|80|[[Rasierblatt|Grass|40|100||🌿◇]]|2|Common
+0054|Enton|Water|60|[[Kopfnuss|Colorless|20|100||◇]]|1|Common
+0058|Fukano|Fire|70|[[Biss|Colorless|20|100||◇]]|1|Common
+0060|Quapsel|Water|60|[[Blubber|Water|20|100||💧]]|1|Common
+0066|Machollo|Fighting|70|[[Fußtritt|Fighting|20|100||✊]]|2|Common
+0070|Knofensa|Grass|60|[[Rankenpeitsche|Grass|20|100||🌿]]|1|Common
+0074|Kleinstein|Fighting|70|[[Steinwurf|Fighting|20|100||✊]]|1|Common
+0081|Magnetilo|Lightning|60|[[Donnerschock|Lightning|20|100|Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert.|⚡]]|1|Common
+0092|Nebulak|Psychic|50|[[Kratzer|Colorless|10|100||◇]]|1|Common
+0099|Krabby|Water|60|[[Klammer|Water|20|100||💧]]|1|Common
+0100|Voltobal|Lightning|50|[[Tackle|Colorless|10|100||◇]]|1|Common
+0105|Knogga|Fighting|80|[[Knochenschlag|Fighting|30|100||✊]]|1|Common
+0113|Chaneira|Colorless|120|[[Pfund|Colorless|10|100||◇]]|2|Common
+0120|Sterndu|Water|50|[[Wasserpistole|Water|20|100||💧]]|1|Common
+0129|Karpador|Water|30|[[Platscher|Colorless|10|100||◇]]|1|Common
+0133|Evoli|Colorless|60|[[Tackle|Colorless|20|100||◇]]|1|Common
+0135|Blitza|Lightning|90|[[Donnerschock|Lightning|30|100|Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert.|⚡◇]]|1|Common
+0147|Dratini|Dragon|70|[[Drachenwut|Colorless|30|100||◇◇]]|1|Common
+0161|Webarak|Grass|60|[[Fadenschuss|Grass|20|100|Das Aktive Pokémon deines Gegners kann während seines nächsten Zuges nicht angreifen.|🌿]]|1|Common
+0163|Dummisel|Colorless|70|[[Tackle|Colorless|20|100||◇]]|1|Common
+0169|Iksbat|Darkness|90|[[Giftzahn|Darkness|40|100|Das Aktive Pokémon deines Gegners ist jetzt vergiftet.|🌑◇]]|1|Common
+0172|Pichu|Lightning|30|[[Elektroschock|Lightning|20|100|Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert.|⚡]]|0|Common
+0173|Yanma|Grass|70|[[Flügelschlag|Grass|20|100||🌿]]|1|Common
+0174|Yanmega|Grass|110|[[Klingensturm|Grass|50|100||🌿◇◇]]|1|Common
+0216|Teddiursa|Colorless|60|[[Klaps|Colorless|20|100||◇]]|1|Common
+0234|Girafarig|Psychic|80|[[Psywelle|Psychic|30|100||🔮◇]]|1|Common
+0236|Damhirplex|Colorless|80|[[Stampfer|Colorless|20|100||◇◇]]|2|Common
+0241|Miltank|Colorless|100|[[Milchgetränk|Colorless|20|100|Heile 20 KP bei diesem Pokémon.|◇◇]]|2|Common
+0258|Geckarbor|Grass|60|[[Tackle|Colorless|10|100||◇]]|1|Common
+0263|Zigzachs|Colorless|50|[[Kratzer|Colorless|10|100||◇]]|1|Common
+0280|Trasla|Psychic|50|[[Klaps|Colorless|10|100||◇]]|1|Common
+0298|Azurill|Colorless|40|[[Ruf|Colorless|0|100|Ziehe 1 Karte.|0]]|1|Common
+0303|Mauzi|Colorless|60|[[Kratzfurie|Colorless|20x|100|Wirf 1 Münze für jedes Pokémon auf der Bank deines Gegners. Diese Attacke fügt 20 Schadenspunkte mal der Anzahl „Kopf“ zu.|◇]]|1|Common
+0305|Stollunior|Metal|60|[[Kratzer|Colorless|10|100||◇]]|1|Common
+0307|Wablu|Colorless|50|[[Tackle|Colorless|10|100||◇]]|1|Common
+0310|Flurmel|Colorless|60|[[Heuler|Colorless|0|100|Das Aktive Pokémon deines Gegners fügt während seines nächsten Zuges 20 Schadenspunkte weniger zu.|◇]]|1|Common
+0002|Bisaknosp|Grass|90|[[Rasiermesserblatt|Grass|60|100||🌿🌿🌿]]|2|Uncommon
+0014|Kokuna|Grass|80|[[String Shot|Grass|20|100|Wirf eine Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt gelähmt.|🌿]]|2|Uncommon
+0187|Hubelupf|Grass|70|[[Samenbombe|Grass|40|100||🌿]]|1|Uncommon
+0420|Kinoso|Grass|80|[[Samenbombe|Grass|40|100||🌿]]|1|Uncommon
+0495|Efoserp|Grass|80|[[Rankenhieb|Grass|50|100||🌿◇]]|1|Uncommon
+0724|Arboretoss|Grass|80|[[Rasierflügel|Grass|30|100||🌿]]|1|Uncommon
+0795|Schabelle|Grass|70|[[Jump Blues|Grass|20|100|Dieser Angriff fügt außerdem 1 Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu.|🌿]]|1|Uncommon
+0907|Feliospa|Grass|90|[[Schrägstrich|Grass|40|100||🌿◇]]|1|Uncommon
+0005|Glutexo|Fire|90|[[Garras de Fuego|Fire|60|100||🔥◇◇]]|2|Uncommon
+0393|Panpyro|Fire|80|[[Feuriger Schlag|Fire|30|100||🔥◇]]|1|Uncommon
+0726|Miezunder|Fire|80|[[Hitzegerät|Fire|40|100|Dieses Pokémon fügt sich selbst außerdem 10 Schadenspunkte zu.|🔥◇]]|1|Uncommon
+0008|Schillok|Water|80|[[Wellenplatscher|Water|40|100||💧◇]]|1|Uncommon
+0117|Seemon|Water|80|[[Rasiermesserflosse|Water|50|100||💧◇]]|1|Uncommon
+0481|Amphizel|Water|80|[[Spritzwasser|Water|30|100||💧]]|1|Uncommon
+0729|Marikeck|Water|90|[[Wasserpistole|Water|40|100||💧◇]]|2|Uncommon
+0432|Pachirisu|Lightning|70|[[Plasma|Lightning|10|100|Nimm eine Elektro-Energie aus deiner Energiezone und lege sie an eines deiner Elektro-Pokémon auf deiner Bank an.|⚡]]|1|Uncommon
+0093|Alpollo|Psychic|80|[[Irrlicht|Psychic|30|100||🔮]]|1|Uncommon
+0282|Kirlia|Psychic|80|[[Schlagen|Psychic|20|100||🔮]]|1|Uncommon
+0684|Flauschling|Fairy|60|[[Klaps|Fairy|20|100||✨]]|1|Uncommon
+0790|Cosmovum|Psychic|100|[[Verhärten|Psychic|0|100|Während des nächsten Zuges deines Gegners werden diesem Pokémon durch Attacken 50 Schadenspunkte weniger zugefügt.|🔮🔮]]|3|Uncommon
+0869|Pokusan|Psychic|80|[[Süßigkeiten-Überladung|Psychic|40x|100|Dieser Angriff fügt 40 Schadenspunkte für jedes Mal zu, wenn dein Pokémon in diesem Spiel „Süßigkeiten-Staffel“ verwendet hat.|🔮]]|1|Uncommon
+0067|Maschock|Fighting|100|[[Stärke|Fighting|50|100||✊✊]]|2|Uncommon
+0185|Mogelbaum|Fighting|80|[[Kämpferische Kopfnuss|Fighting|20|100|Wenn das Aktive Pokémon deines Gegners ein Pokémon-ex ist, fügt diese Attacke 30 Schadenspunkte mehr zu.|✊]]|2|Uncommon
+0445|Knarksel|Dragon|80|[[Scharfe Sense|Dragon|30|100||🐉◇]]|1|Uncommon
+0521|Stalobor|Metal|110|[[Schrägstrich|Metal|50|100||⚙️⚙️⚙️]]|3|Uncommon
+0783|Tafforgita|Metal|90|[[Hartnäckiger Hammer|Metal|30|100|Wirf eine Münze. Bei „Kopf“ verursacht dieser Angriff 30 weitere Schadenspunkte.|⚙️⚙️]]|2|Uncommon
+0148|Dragonir|Dragon|90|[[Wasserfall|Water|60|100||💧💧]]|1|Uncommon
+0017|Tauboga|Colorless|90|[[Flügelangriff|Colorless|50|100||◇◇◇]]|1|Uncommon
+0301|Typ:Null|Colorless|80|[[Tackle|Colorless|20|100||◇◇]]|2|Uncommon
+0911|Mopex|Colorless|90|[[Stampfer|Colorless|30|100||◇◇]]|2|Uncommon
+0015|Bibor-ex|Grass|170|[[Vernichtender Speer|Grass|80|100|Lege 1 zufällige Energie vom Aktiven Pokémon deines Gegners ab.|🌿🌿]]|2|Ultra Rare
+0022|Yanmega ex|Grass|140|[[Luftschnitt|Grass|120|100|Lege 1 zufällige Energie von diesem Pokémon ab.|🌿🌿🌿]]|1|Ultra Rare
+0023|Pottrott-ex|Grass|100|[[Kraftpanzer|Grass|30|100|Während des nächsten Zuges deines Gegners werden diesem Pokémon durch Attacken 50 Schadenspunkte weniger zugefügt.|🌿◇]]|2|Ultra Rare
+0251|Celebi-ex|Grass|130|[[Blütensturm|Grass|50x|100|Wirf für jede an dieses Pokémon angelegte Energie 1 Münze. Diese Attacke fügt 50 Schadenspunkte mal der Anzahl „Kopf“ zu.|🌿◇◇]]|2|Ultra Rare
+0470|Folipurba-ex|Grass|130|[[Blattsturm|Grass|70|100|Heile 20 Schadenspunkte bei diesem Pokémon.|🌿🌿◇]]|1|Ultra Rare
+0724|Silvarro-ex|Grass|140|[[Pfeilhagel|Grass|100|100|Dieser Angriff fügt außerdem 20 Schadenspunkte jedem Pokémon auf der Bank deines Gegners zu.|🌿🌿◇]]|1|Ultra Rare
+0796|Masskito-ex|Grass|140|[[Großer Schlag|Grass|120|100|Während deines nächsten Zuges kann dieses Pokémon diese Attacke nicht einsetzen.|🌿🌿◇]]|2|Ultra Rare
+0728|Fuegro-ex|Fire|160|[[Brandstifter|Fire|80|100|Lege 1 Energie von diesem Pokémon ab.|🔥🔥◇]]|2|Ultra Rare
+0006|Glurak-ex|Fire|180|[[Kratzer|Colorless|20|100||◇],[Inferno|Fire|150|100|Lege 2 Feuer-Energien von diesem Pokémon ab.|🔥🔥🔥◇]]|2|Ultra Rare
+0250|Ho-Oh-ex|Fire|130|[[Flammenkreis|Fire|80|100|Lege 1 Feuer-Energie von diesem Pokémon ab.|🔥🔥◇]]|2|Ultra Rare
+0146|Lavados-ex|Fire|140|[[Flammenkanone|Fire|70|100|Lege 1 Feuer-Energie von diesem Pokémon ab.|🔥🔥◇]]|2|Ultra Rare
+0392|Panferno-ex|Fire|150|[[Flammenfaust|Fire|40|100||🔥],[Hitzewelle|Fire|140|100|Lege 2 Feuer-Energien von diesem Pokémon ab.|🔥🔥🔥]]|2|Ultra Rare
+0726|Miezunder|Fire|80|[[Hitzegerät|Fire|40|100|Dieses Pokémon fügt sich selbst außerdem 10 Schadenspunkte zu.|🔥◇]]|1|Uncommon
+0009|Turtok-ex|Water|180|[[Wasserkanone|Water|40+|100|Diese Attacke fügt 40 weitere Schadenspunkte für jede Wasser-Energie, die über die für diese Attacke benötigten hinaus an dieses Pokémon angelegt ist, zu.|💧💧◇]]|3|Ultra Rare
+0230|Seedraking-ex|Water|160|[[Hydropumpe|Water|60+|100|Diese Attacke fügt 30 weitere Schadenspunkte für jede Wasser-Energie an diesem Pokémon zu.|💧💧◇]]|2|Ultra Rare
+0121|Starmie-ex|Water|130|[[Hydropumpe|Water|50+|100|Diese Attacke fügt 20 weitere Schadenspunkte für jede Wasser-Energie an diesem Pokémon zu.|💧💧]]|0|Ultra Rare
+0130|Garados-ex|Water|180|[[Wirbelsturm|Water|70|100|Lege alle Energien von diesem Pokémon ab.|💧💧💧]]|3|Ultra Rare
+0131|Aquana|Water|120|[[Hydropumpe|Water|40+|100|Diese Attacke fügt 20 weitere Schadenspunkte für jede Wasser-Energie an diesem Pokémon zu.|💧◇◇]]|2|Rare
+0144|Arktos-ex|Water|140|[[Eisflügel|Water|40|100||💧◇],[Blizzard|Water|80|100|Dieser Angriff fügt jedem Pokémon auf der Bank deines Gegners 10 Schadenspunkte zu.|💧💧◇]]|2|Ultra Rare
+0481|Amphizel|Water|80|[[Spritzwasser|Water|30|100||💧]]|1|Uncommon
+0151|Mewtu-ex|Psychic|150|[[Psychoklinge|Psychic|50|100||🔮🔮],[Psydrive|Psychic|150|100|Lege 2 Psycho-Energien von diesem Pokémon ab.|🔮🔮🔮]]|2|Ultra Rare
+0150|Mew-ex|Psychic|130|[[Genom-Hack|Colorless|0|100|Wähle 1 der Attacken des Aktiven Pokémon deines Gegners und setze sie als diese Attacke ein.|◇◇◇]]|1|Ultra Rare
+0196|Psiana-ex|Psychic|140|[[Psychoklinge|Psychic|60|100||🔮🔮◇]]|2|Ultra Rare
+0478|Gengar-ex|Psychic|170|[[Schreckensfluch|Psychic|100|100|Das Aktive Pokémon deines Gegners kann während seines nächsten Zuges keine Attacken einsetzen.|🔮🔮🔮]]|3|Ultra Rare
+0488|Lunala-ex|Psychic|160|[[Mondstrahl|Psychic|100|100||🔮🔮🔮]]|2|Ultra Rare
+0487|Giratina-ex|Psychic|160|[[Chaotischer Impuls|Psychic|130|100|Dieses Pokémon kann während deines nächsten Zuges nicht angreifen.|🔮🔮🔮]]|2|Ultra Rare
+0445|Knakrack-ex|Dragon|160|[[Drachenklauen|Dragon|100|100||🐉🐉]]|2|Ultra Rare
+0149|Dragoran-ex|Dragon|160|[[Drachenstoß|Dragon|130|100|Wirf eine Münze. Bei Kopf fügt dieser Angriff 100 Schadenspunkte zu. Bei Zahl fügt er 30 Schadenspunkte zu.|🐉🐉◇]]|3|Ultra Rare
+0448|Lucario-ex|Fighting|120|[[Kampfkunst|Fighting|40|100|Dieser Angriff fügt 40 weitere Schadenspunkte zu, wenn das Aktive Pokémon deines Gegners ein Pokémon-ex ist.|✊✊]]|1|Ultra Rare
+0443|Knakrack|Dragon|90|[[Scharfe Sense|Dragon|30|100||🐉◇]]|1|Uncommon
+0248|Schlingking-ex|Darkness|160|[[Grindcore|Darkness|120|100|Lege 1 Energie vom Aktiven Pokémon deines Gegners ab.|🌑🌑🌑]]|3|Ultra Rare
+0197|Nachtara-ex|Darkness|140|[[Mondlicht|Darkness|70|100|Heile 30 Schadenspunkte bei diesem Pokémon.|🌑🌑◇]]|2|Ultra Rare
+0461|Snibunna-ex|Darkness|130|[[Frostiger Fang|Darkness|50|100|Wenn das Aktive Pokémon deines Gegners bereits Schaden hat, fügt diese Attacke 50 weitere Schadenspunkte zu.|🌑◇]]|1|Ultra Rare
+0235|Alola-Muk-ex|Darkness|160|[[Giftmüll|Darkness|70|100|Das Aktive Pokémon deines Gegners ist jetzt vergiftet.|🌑🌑◇]]|3|Ultra Rare
+0094|Gengar-ex|Psychic|170|[[Schreckensfluch|Psychic|100|100|Das Aktive Pokémon deines Gegners kann während seines nächsten Zuges keine Attacken einsetzen.|🔮🔮🔮]]|3|Ultra Rare
+0460|Magnezone|Lightning|140|[[Donnerblitz|Lightning|110|100|Lege 2 Energie von diesem Pokémon ab.|⚡⚡⚡]]|2|Rare
+0145|Zapdos-ex|Lightning|130|[[Donnerschock|Lightning|40|100|Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert.|⚡⚡◇],[Donnersturm|Lightning|90+|100|Wirf 4 Münzen. Dieser Angriff fügt 40 weitere Schadenspunkte für jede „Kopf“ zu.|⚡⚡⚡]]|2|Ultra Rare
+0258|Arceus-ex|Colorless|140|[[Trinität|Colorless|70|100|Dieser Angriff fügt 20 weitere Schadenspunkte für jedes Pokémon auf deiner Bank zu.|◇◇◇]]|1|Ultra Rare
+0143|Relaxo-ex|Colorless|180|[[Schlafsand|Colorless|30|100|Das Aktive Pokémon deines Gegners ist jetzt schläfrig.|◇◇],[Riesenschlummer|Colorless|90|100|Dieses Pokémon schläft jetzt.|◇◇◇]]|4|Ultra Rare
+0713|Kaguron|Metal|120|[[Metallklaue|Metal|50|100||⚡◇◇]]|2|Rare
+0775|Tortunator|Fire|100|[[Dampfexplosion|Fire|50|100|Dieses Pokémon kann während deines nächsten Zuges nicht angreifen.|🔥🔥]]|2|Rare
+0777|Togedemaru|Lightning|70|[[Stachelschlag|Lightning|30|100|Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert.|⚡◇]]|1|Rare
+0003|Bisaflor-ex|Grass|190|[[Rasierblatt|Grass|60|100||🌿◇◇],[Riesenblüte|Grass|100|100|Heile 30 Schadenspunkte bei diesem Pokémon.|🌿🌿◇◇]]|3|Ultra Rare
+0015|Bibor-ex|Grass|170|[[Vernichtender Speer|Grass|80|100|Lege 1 zufällige Energie vom Aktiven Pokémon deines Gegners ab.|🌿🌿]]|1|Ultra Rare
+0103|Kokowei-ex|Grass|160|[[Tropenschwung|Grass|40+|100|Wirf 1 Münze. Bei Kopf fügt diese Attacke 40 weitere Schadenspunkte zu.|🌿]]|3|Ultra Rare
+0196|Folipurba-ex|Grass|140|[[Solarstrahl|Grass|70|100||🌿◇◇]]|1|Ultra Rare
+0174|Yanmega-ex|Grass|140|[[Luftschnitt|Grass|120|100|Lege 1 zufällige Energie von diesem Pokémon ab.|◇◇◇]]|1|Ultra Rare
+0213|Celebi-ex|Grass|130|[[Blütensturm|Grass|50x|100|Wirf für jede an dieses Pokémon angelegte Energie 1 Münze. Diese Attacke fügt 50 Schadenspunkte mal der Anzahl „Kopf“ zu.|🌿◇◇]]|2|Ultra Rare
+0796|Masskito-ex|Grass|140|[[Großer Schlag|Grass|120|100|Dieses Pokémon kann während deines nächsten Zuges nicht angreifen.|🌿🌿◇]]|2|Ultra Rare
+0724|Silvarro-ex|Grass|170|[[Rasierblatt|Grass|60|100||🌿◇◇],[Scharfschütze|Grass|100|100|Dieser Angriff fügt außerdem 20 Schadenspunkte 1 Pokémon auf der Bank deines Gegners zu.|🌿🌿◇]]|2|Ultra Rare
+0059|Arkani-ex|Fire|150|[[Flammenstoß|Fire|130|100|Dieses Pokémon kann während deines nächsten Zuges nicht angreifen.|🔥🔥🔥◇]]|2|Ultra Rare
+0136|Flamara-ex|Fire|150|[[Feuerhieb|Fire|30|100||🔥],[Feuersturm|Fire|110|100|Lege 2 Feuer-Energien von diesem Pokémon ab.|🔥🔥🔥]]|2|Ultra Rare
+0146|Lavados-ex|Fire|140|[[Feuerwirbel|Fire|70|100|Lege 1 Feuer-Energie von diesem Pokémon ab.|🔥🔥◇]]|2|Ultra Rare
+0250|Ho-Oh-ex|Fire|150|[[Phönix-Turbo|Colorless|80|100|Nimm 1 Wasser-, 1 Feuer- und 1 Elektro-Energie aus deiner Energiezone und lege sie beliebig an deine Basis-Pokémon auf der Bank an.|◇◇◇]]|2|Ultra Rare
+0392|Panferno-ex|Fire|170|[[Flammenfaust|Fire|40|100||🔥],[Hitzewelle|Fire|140|100|Lege 2 Feuer-Energien von diesem Pokémon ab.|🔥🔥🔥]]|2|Ultra Rare
+0726|Fuegro-ex|Fire|180|[[Dunkler Lariat|Fire|80|100|Während deines nächsten Zuges kann dieses Pokémon diese Attacke nicht einsetzen.|🔥🔥◇]]|2|Ultra Rare
+0006|Glurak-ex|Fire|180|[[Kratzer|Colorless|20|100||◇],[Inferno|Fire|150|100|Lege 2 Feuer-Energien von diesem Pokémon ab.|🔥🔥🔥◇]]|2|Ultra Rare
+0009|Turtok-ex|Water|180|[[Wasserkanone|Water|40+|100|Diese Attacke fügt 40 weitere Schadenspunkte für jede Wasser-Energie, die über die für diese Attacke benötigten hinaus an dieses Pokémon angelegt ist, zu.|💧💧◇],[Hydropumpe|Water|80+|100|Diese Attacke fügt 60 weitere Schadenspunkte für jede Wasser-Energie, die über die für diese Attacke benötigten hinaus an dieses Pokémon angelegt ist, zu.|💧💧💧]]|3|Ultra Rare
+0121|Starmie-ex|Water|130|[[Hydropumpe|Water|50+|100|Diese Attacke fügt 20 weitere Schadenspunkte für jede Wasser-Energie an diesem Pokémon zu.|💧💧]]|0|Ultra Rare
+0130|Garados-ex|Water|180|[[Wirbelsturm|Water|70|100|Lege alle Energien von diesem Pokémon ab.|💧💧💧]]|3|Ultra Rare
+0144|Arktos-ex|Water|140|[[Eisflügel|Water|40|100||💧◇],[Blizzard|Water|80|100|Dieser Angriff fügt jedem Pokémon auf der Bank deines Gegners 10 Schadenspunkte zu.|💧💧◇]]|2|Ultra Rare
+0230|Seedraking-ex|Water|160|[[Hydropumpe|Water|60+|100|Diese Attacke fügt 30 weitere Schadenspunkte für jede Wasser-Energie an diesem Pokémon zu.|💧💧◇]]|2|Ultra Rare
+0470|Glaziola-ex|Water|140|[[Eiszapfen|Water|50|100|Das Aktive Pokémon deines Gegners kann während seines nächsten Zuges keine Fähigkeiten einsetzen.|💧💧◇]]|2|Ultra Rare
+0481|Palkia-ex|Water|150|[[Schlitzer|Water|30|100||💧],[Dimensionssturm|Water|150|100|Lege 3 Wasser-Energien von diesem Pokémon ab. Dieser Angriff fügt außerdem jedem Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu.|💧💧💧◇]]|2|Ultra Rare
+0729|Primarene-ex|Water|180|[[Hydropumpe|Water|40+|100|Wenn an dieses Pokémon mindestens 1 zusätzliche Wasser-Energie angelegt ist, fügt dieser Angriff 40 weitere Schadenspunkte zu.|💧💧],[Funkelnde Arie|Water|100|100|Heile 20 Schadenspunkte bei diesem Pokémon.|💧💧💧]]|2|Ultra Rare
+0151|Mewtu-ex|Psychic|150|[[Psychoklinge|Psychic|50|100||🔮🔮],[Psydrive|Psychic|150|100|Lege 2 Psycho-Energien von diesem Pokémon ab.|🔮🔮🔮]]|2|Ultra Rare
+0150|Mew-ex|Psychic|130|[[Genom-Hack|Colorless|0|100|Wähle 1 der Attacken des Aktiven Pokémon deines Gegners und setze sie als diese Attacke ein.|◇◇◇]]|1|Ultra Rare
+0196|Psiana-ex|Psychic|140|[[Psychoklinge|Psychic|60|100||🔮🔮◇]]|2|Ultra Rare
+0488|Lunala-ex|Psychic|160|[[Mondstrahl|Psychic|100|100||🔮🔮🔮]]|2|Ultra Rare
+0487|Giratina-ex|Psychic|160|[[Chaotischer Impuls|Psychic|130|100|Dieses Pokémon kann während deines nächsten Zuges nicht angreifen.|🔮🔮🔮]]|2|Ultra Rare
+0197|Nachtara-ex|Darkness|140|[[Mondlicht|Darkness|70|100|Heile 30 Schadenspunkte bei diesem Pokémon.|🌑🌑◇]]|2|Ultra Rare
+0461|Snibunna-ex|Darkness|130|[[Frostiger Fang|Darkness|50+|100|Wenn das Aktive Pokémon deines Gegners bereits Schaden hat, fügt diese Attacke 50 weitere Schadenspunkte zu.|🌑◇]]|1|Ultra Rare
+0248|Schlingking-ex|Darkness|160|[[Grindcore|Darkness|120|100|Lege 1 Energie vom Aktiven Pokémon deines Gegners ab.|🌑🌑🌑]]|3|Ultra Rare
+0149|Dragoran-ex|Dragon|160|[[Drachenstoß|Dragon|130|100|Wirf 1 Münze. Bei Kopf fügt dieser Angriff 100 Schadenspunkte zu. Bei Zahl fügt er 30 Schadenspunkte zu.|🐉🐉◇]]|3|Ultra Rare
+0445|Knakrack-ex|Dragon|160|[[Drachenklauen|Dragon|100|100||🐉🐉]]|2|Ultra Rare
+0448|Lucario-ex|Fighting|120|[[Kampfkunst|Fighting|40|100|Dieser Angriff fügt 40 weitere Schadenspunkte zu, wenn das Aktive Pokémon deines Gegners ein Pokémon-ex ist.|✊✊]]|1|Ultra Rare
+0475|Galagladi-ex|Psychic|170|[[Psychoklinge|Psychic|50|100||🔮◇◇],[Klingensturm|Psychic|100|100|Dieser Angriff fügt 50 weitere Schadenspunkte zu, wenn das Aktive Pokémon deines Gegners ein Pokémon-ex ist.|🔮🔮◇]]|2|Ultra Rare
+0194|Knogga-ex|Fighting|160|[[Knochensturm|Fighting|80|100|Wirf 1 Münze. Bei Kopf fügt dieser Angriff 80 weitere Schadenspunkte zu.|✊✊]]|2|Ultra Rare
+0142|Aerodactyl-ex|Fighting|140|[[Urzeitliches Stampfen|Colorless|50|100|Das Aktive Pokémon deines Gegners kann während seines nächsten Zuges keine Fähigkeiten einsetzen.|◇◇◇]]|1|Ultra Rare
+0242|Donphan-ex|Fighting|120|[[Erdbeben|Fighting|50|100|Dieser Angriff fügt jedem Pokémon auf deiner Bank 10 Schadenspunkte zu.|✊✊]]|2|Ultra Rare
+0745|Wolwerock-ex|Fighting|140|[[Steinernes Gebrüll|Fighting|80+|100|Wenn das Aktive Pokémon deines Gegners bereits Schaden hat, fügt diese Attacke 80 weitere Schadenspunkte zu.|✊✊◇]]|2|Ultra Rare
+0746|Quartermak-ex|Fighting|140|[[Kraftstoß|Fighting|100|100|Dieses Pokémon kann während deines nächsten Zuges nicht angreifen.|✊✊◇]]|2|Ultra Rare
+0980|Paldea-Suelord-ex|Darkness|160|[[Giftiger Sumpf|Darkness|60|100|Das Aktive Pokémon deines Gegners ist jetzt vergiftet.|🌑🌑],[Giftpanzer|Darkness|120|100|Wenn dieses Pokémon vergiftet ist, fügt dieser Angriff 100 weitere Schadenspunkte zu.|🌑🌑🌑]]|3|Ultra Rare
+0054|Lusardin-ex|Water|160|[[Rettungszug|Water|30|100|Wenn dein Aktives Pokémon ein Basis-Pokémon ist, tausche es gegen 1 Pokémon auf deiner Bank aus.|💧◇]]|1|Ultra Rare
+0111|Schligdri-ex|Fighting|140|[[Schlammkanone|Fighting|60|100||✊◇◇],[Schlammbombe|Fighting|120|100|Lege 2 Energie von diesem Pokémon ab.|✊✊◇]]|2|Ultra Rare
+0026|Pikachu-ex|Lightning|120|[[Donnerschlag|Lightning|30|100|Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert.|⚡⚡],[Circle Circuit|Lightning|30x|100|Diese Attacke fügt 30 Schadenspunkte für jedes Elektro-Pokémon auf deiner Bank zu.|⚡⚡◇]]|1|Ultra Rare
+0026|Alola-Raichu-ex|Lightning|140|[[Donnerschock|Lightning|40|100|Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert.|⚡◇],[Gigavolt|Lightning|120|100|Wirf 1 Münze. Bei Zahl fügt diese Attacke 100 Schadenspunkte zu.|⚡⚡◇]]|1|Ultra Rare
+0145|Zapdos-ex|Lightning|130|[[Donnerschock|Lightning|40|100|Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert.|⚡⚡◇],[Donnersturm|Lightning|90+|100|Wirf 4 Münzen. Dieser Angriff fügt 40 weitere Schadenspunkte für jede „Kopf“ zu.|⚡⚡⚡]]|2|Ultra Rare
+0171|Lanturn-ex|Lightning|120|[[Elektrokanone|Lightning|50+|100|Lege 1 Elektro-Energie von diesem Pokémon ab. Wenn du das machst, fügt diese Attacke 70 weitere Schadenspunkte zu.|⚡⚡◇]]|1|Ultra Rare
+0777|Togedemaru-ex|Lightning|120|[[Stachelwalze|Lightning|60|100|Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert.|⚡⚡◇]]|1|Ultra Rare
+0757|Kapu-Riki-ex|Lightning|120|[[Donnersturm|Lightning|60+|100|Wenn das Aktive Pokémon deines Gegners bereits Schaden hat, fügt diese Attacke 60 weitere Schadenspunkte zu.|⚡⚡◇]]|1|Ultra Rare
+0720|Solgaleo-ex|Metal|170|[[Metallklaue|Metal|50|100||⚡◇],[Sonnenexplosion|Metal|120|100|Lege 2 Energie von diesem Pokémon ab.|⚙️⚙️⚙️]]|2|Ultra Rare
+0483|Dialga-ex|Metal|150|[[Metallklaue|Metal|30|100||⚙️],[Metallische Turbine|Metal|130|100|Lege 2 Metall-Energien von diesem Pokémon ab.|⚙️⚙️⚙️◇]]|2|Ultra Rare
+0796|Granforgita-ex|Metal|160|[[Hammerhieb|Metal|50|100||⚙️],[Riesenhammer|Metal|100+|100|Wenn du mindestens 1 weitere Metall-Energie als die für diese Attacke benötigte an dieses Pokémon angelegt hast, fügt diese Attacke 60 weitere Schadenspunkte zu.|⚙️⚙️⚙️]]|2|Ultra Rare
+0143|Relaxo-ex|Colorless|180|[[Schlafsand|Colorless|30|100|Das Aktive Pokémon deines Gegners ist jetzt schläfrig.|◇◇],[Riesenschlummer|Colorless|90|100|Dieses Pokémon schläft jetzt.|◇◇◇]]|4|Ultra Rare
+0149|Lugia-ex|Colorless|140|[[Windstoß|Colorless|40|100||◇◇],[Elementarflug|Colorless|130|100|Lege 2 zufällige Energien von diesem Pokémon ab.|◇◇◇◇]]|2|Ultra Rare
+0196|Evoli-ex|Colorless|140|[[Evoli-Roulette|Colorless|30x|100|Wirf 1 Münze für jede an dieses Pokémon angelegte Energie. Diese Attacke fügt 30 Schadenspunkte mal der Anzahl „Kopf“ zu.|◇◇]]|1|Ultra Rare
+0493|Arceus-ex|Colorless|140|[[Trinität|Colorless|70|100|Dieser Angriff fügt 20 weitere Schadenspunkte für jedes Pokémon auf deiner Bank zu.|◇◇◇]]|1|Ultra Rare
+0172|Pichu|Lightning|30|[[Elektroschock|Lightning|20|100|Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert.|⚡]]|0|Rare
+0173|Yanma|Grass|70|[[Flügelschlag|Grass|20|100||🌿]]|1|Rare
+0174|Papungha|Grass|120|[[Rundumangriff|Grass|60|100||🌿]]|1|Rare
+0258|Geckarbor|Grass|60|[[Tackle|Colorless|10|100||◇]]|1|Rare
+0495|Efoserp|Grass|80|[[Rankenhieb|Grass|50|100||🌿◇]]|1|Rare
+0497|Serpiroyal|Grass|110|[[Solarstrahl|Grass|70|100||🌿◇◇◇]]|2|Rare
+0722|Bauz|Grass|60|[[Tackle|Colorless|10|100||◇]]|1|Rare
+0724|Arboretoss|Grass|80|[[Rasierflügel|Grass|30|100||🌿]]|1|Rare
+0906|Felori|Grass|60|[[Kratzer|Colorless|10|100||◇]]|1|Rare
+0907|Feliospa|Grass|90|[[Schrägstrich|Grass|40|100||🌿◇]]|1|Rare
+0058|Fukano|Fire|70|[[Biss|Colorless|20|100||◇]]|1|Rare
+0059|Arkani|Fire|120|[[Flammenwurf|Fire|90|100|Lege 1 Feuer-Energie von diesem Pokémon ab.|🔥🔥◇]]|2|Rare
+0122|Pantimos|Psychic|80|[[Pantomime|Psychic|20|100|Während des nächsten Zuges deines Gegners werden diesem Pokémon durch Attacken 20 Schadenspunkte weniger zugefügt.|🔮◇]]|1|Rare
+0255|Flemmli|Fire|60|[[Glut|Fire|20|100||🔥]]|1|Rare
+0256|Jungglut|Fire|80|[[Feuerkick|Fire|40|100||🔥◇]]|1|Rare
+0391|Panflam|Fire|60|[[Krallenhieb|Colorless|20|100||◇]]|1|Rare
+0393|Panpyro|Fire|80|[[Feuriger Schlag|Fire|30|100||🔥◇]]|1|Rare
+0758|Miezunder|Fire|80|[[Hitzegerät|Fire|40|100|Dieses Pokémon fügt sich selbst außerdem 10 Schadenspunkte zu.|🔥◇]]|1|Rare
+0088|Sleima|Darkness|70|[[Schlammschuss|Darkness|30|100||🌑◇]]|2|Rare
+0089|Sleimok|Darkness|120|[[Giftwolke|Darkness|60|100|Das Aktive Pokémon deines Gegners ist jetzt vergiftet.|🌑🌑◇]]|3|Rare
+0193|Yanmega|Grass|110|[[Klingensturm|Grass|50|100||🌿◇◇]]|1|Rare
+0234|Girafarig|Psychic|80|[[Psywelle|Psychic|30|100||🔮◇]]|1|Rare
+0236|Damhirplex|Colorless|80|[[Stampfer|Colorless|20|100||◇◇]]|2|Rare
+0241|Miltank|Colorless|100|[[Milchgetränk|Colorless|20|100|Heile 20 KP bei diesem Pokémon.|◇◇]]|2|Rare
+0303|Mauzi|Colorless|60|[[Kratzfurie|Colorless|20x|100|Wirf 1 Münze für jedes Pokémon auf der Bank deines Gegners. Diese Attacke fügt 20 Schadenspunkte mal der Anzahl „Kopf“ zu.|◇]]|1|Rare
+0306|Mopex|Colorless|90|[[Stampfer|Colorless|30|100||◇◇]]|2|Rare
+0307|Mopex|Colorless|90|[[Stampfer|Colorless|30|100||◇◇]]|2|Rare
+0907|Feliospa|Grass|90|[[Schrägstrich|Grass|40|100||🌿🌿]]|1|Secret Rare
+0341|Krebutak|Water|90|[[Klammergriff|Water|40|100||💧◇]]|1|Secret Rare
+0658|Quajutsu|Water|120|[[Nebelhieb|Water|60|100||💧✊]]|1|Secret Rare
+0282|Guardevoir|Psychic|110|[[Psyshot|Psychic|60|100||🔮🔮🔮]]|2|Secret Rare
+0869|Pokusan|Fairy|120|[[Süßigkeiten-Staffel|Fairy|30|100|Wenn eines deiner Pokémon in deinem letzten Zug „Süßigkeiten-Staffel“ verwendet hat, fügt dieser Angriff 60 weitere Schadenspunkte zu.|✨✨]]|1|Secret Rare
+0083|Porenta|Colorless|60|[[Lauch-Schlag|Colorless|40|100||◇]]|1|Secret Rare
+0795|Masskito-ex|Grass|140|[[Stempel|Grass|30|100||🌿],[Großer Schlag|Grass|120|100|Während deines nächsten Zuges kann dieses Pokémon diese Attacke nicht einsetzen.|🌿🌿🌿]]|2|Secret Rare
+0006|Glurak-ex|Fire|180|[[Schlitzer|Colorless|60|100||🔥🔥🔥],[Feuerroter Sturm|Fire|200|100|Lege 2 Feuer-Energien von diesem Pokémon ab.|🔥🔥🔥🔥]]|2|Secret Rare
+0250|Ho-Oh-ex|Fire|150|[[Phönix-Turbo|Fire|80|100|Nimm eine Feuer-, Wasser- und Elektro-Energie aus deiner Energiezone und lege sie auf beliebige Weise an deine Basis-Pokémon auf der Bank an.|🔥💧⚡]]|2|Secret Rare
+0484|Palkia-ex|Water|150|[[Schrägstrich|Water|30|100||💧],[Dimensionssturm|Water|150|100|Lege 3 Wasser-Energien von diesem Pokémon ab. Dieser Angriff fügt außerdem jedem Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu.|💧💧💧◇]]|2|Secret Rare
+0025|Pikachu-ex|Lightning|120|[[Kreisschaltung|Lightning|30x|100|Dieser Angriff fügt jedem Elektro-Pokémon auf deiner Bank 30 Schadenspunkte zu.|⚡⚡⚡]]|1|Secret Rare
+0150|Mewtu-ex|Psychic|150|[[Psychische Sphäre|Psychic|50|100||🔮🔮],[Psydrive|Psychic|150|100|Lege 2 Psycho-Energien von diesem Pokémon ab.|🔮🔮🔥🔥]]|2|Secret Rare
+0151|Mew-ex|Psychic|130|[[Genom-Hacking|Colorless|0|100|Wähle 1 der Attacken des Aktiven Pokémon deines Gegners und setze sie als diese Attacke ein.|◇◇◇]]|1|Secret Rare
+0792|Lunala-ex|Psychic|180|[[Mondexplosion|Psychic|100|100||🔮🔥🔥]]|2|Secret Rare
+0483|Dialga-ex|Metal|150|[[Metallischer Turbo|Metal|30|100|Nimm 2 Metall-Energie aus deiner Energiezone und lege sie an eines deiner Bank-Pokémon an.|⚙️⚙️],[Schwerer Aufprall|Metal|100|100||⚙️⚙️✊✊]]|2|Secret Rare
+0791|Solgaleo-ex|Metal|170|[[Metallklaue|Metal|50|100||⚙️⚙️],[Sonnenexplosion|Metal|120|100|Lege 2 Energie von diesem Pokémon ab.|⚙️⚙️⚙️]]|2|Secret Rare
+0133|Evoli-ex|Colorless|90|[[Beißen|Colorless|30|100||◇]]|2|Secret Rare
+0249|Lugia-ex|Colorless|150|[[Elementarexplosion|Colorless|180|100|Lege eine Feuer-, Wasser- und Elektro-Energie von diesem Pokémon ab.|🔥💧⚡]]|2|Secret Rare
+0493|Arceus-ex|Colorless|140|[[Ultimative Kraft|Colorless|70+|100|Dieser Angriff fügt 20 weitere Schadenspunkte für jedes Pokémon auf deiner Bank zu.|◇◇◇]]|2|Secret Rare

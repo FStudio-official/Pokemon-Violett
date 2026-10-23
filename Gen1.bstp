@@ -1,0 +1,152 @@
+price=15
+0001|Bisasam|Grass|60|[[Rankenhieb|Grass|10|100| |🌿],[Samenbomben|Grass|20|100| |🌿🌿]]|1|Common
+0002|Bisaknosp|Grass|80|[[Rankenhieb|Grass|20|100| |🌿],[Rasierblatt|Grass|40|100| |🌿🌿]]|2|Uncommon
+0003|Bisaflor|Grass|120|[[Rasierblatt|Grass|40|100| |🌿🌿],[Solarstrahl|Grass|80|100| |🌿🌿🌿🌿]]|3|Ultra Rare
+0004|Glumanda|Fire|50|[[Kratzer|Colorless|10|100| |◇],[Glut|Fire|20|100| |🔥]]|1|Common
+0005|Glutexo|Fire|80|[[Glut|Fire|30|100| |🔥🔥],[Feuerzahn|Fire|50|100|Wirf eine Münze. Bei Kopf ist das verteidigende Pokemon verbrannt|🔥🔥]]|2|Uncommon
+0006|Glurak|Fire|120|[[Feuerwirbel|Fire|50|100|Lege 1 Feuer-Energie von diesem Pokemon auf den Ablagestapel|🔥🔥🔥],[Flammenwurf|Fire|100|100|Lege 2 Feuer-Energien von diesem Pokemon auf den Ablagestapel|🔥🔥🔥🔥]]|3|Secret Rare
+0007|Schiggy|Water|50|[[Tackle|Colorless|10|100| |◇],[Aquaknarre|Water|20|100| |💧]]|1|Common
+0008|Schillok|Water|80|[[Aquaknarre|Water|30|100| |💧💧],[Kopfnuss|Colorless|40|100| |◇◇]]|2|Uncommon
+0009|Turtok|Water|120|[[Wasserkanone|Water|50|100| |💧💧],[Hydropumpe|Water|100|100|Dieser Angriff macht 20 Schadenspunkte weniger für jede fehlende Wasser-Energie|💧💧💧💧]]|3|Secret Rare
+0010|Raupy|Grass|40|[[Tackle|Colorless|10|100| |◇],[Fadenschuss|Grass|0|100|Das verteidigende Pokemon kann in der nächsten Runde nicht angreifen|🌿]]|1|Common
+0011|Safcon|Grass|60|[[Härtner|Colorless|0|100|Wirf eine Münze. Bei Kopf werden alle Schadenspunkte, die Safcon in deinem nächsten Zug zugefügt werden, um 20 reduziert|◇]]|2|Common
+0012|Smettbo|Grass|90|[[Windstoß|Colorless|20|100| |◇],[Wirbelwind|Grass|50|100|Dein Gegner tauscht sein aktives Pokemon gegen eines seiner Bank-Pokemon aus|🌿🌿]]|1|Ultra Rare
+0013|Hornliu|Grass|40|[[Tackle|Colorless|10|100| |◇],[Giftstachel|Grass|10|100|Wirf eine Münze. Bei Kopf ist das verteidigende Pokemon vergiftet|🌿]]|1|Common
+0014|Kokuna|Grass|60|[[Härtner|Colorless|0|100|Wirf eine Münze. Bei Kopf werden alle Schadenspunkte, die Kokuna in deinem nächsten Zug zugefügt werden, um 20 reduziert|◇]]|2|Common
+0015|Bibor|Grass|90|[[Giftstachel|Grass|30|100|Wirf eine Münze. Bei Kopf ist das verteidigende Pokemon vergiftet|🌿🌿],[Nadelrakete|Grass|70|80|Wirf 2 Münzen. Dieser Angriff fügt 20 Schadenspunkte für jeden Kopf zu|🌿🌿🌿]]|1|Ultra Rare
+0016|Taubsi|Colorless|50|[[Tackle|Colorless|10|100| |◇],[Sandwirbel|Colorless|0|100|Der nächste Angriff des verteidigenden Pokemon macht 20 Schadenspunkte weniger|◇]]|1|Common
+0017|Tauboga|Colorless|70|[[Flügelschlag|Colorless|30|100| |◇◇],[Windstoß|Colorless|40|100| |◇◇◇]]|1|Uncommon
+0018|Tauboss|Colorless|100|[[Flügelschlag|Colorless|50|100| |◇◇],[Wirbelwind|Colorless|70|100|Dein Gegner tauscht sein aktives Pokemon gegen eines seiner Bank-Pokemon aus|◇◇◇]]|2|Ultra Rare
+0019|Rattfratz|Colorless|40|[[Biss|Colorless|10|100| |◇],[Hyperzahn|Colorless|20|90| |◇◇]]|1|Common
+0020|Rattikarl|Colorless|80|[[Biss|Colorless|30|100| |◇◇],[Superzahn|Colorless|0|100|Halbiere die aktuellen KP des verteidigenden Pokemon|◇◇◇]]|1|Rare
+0021|Habitak|Colorless|50|[[Schnabel|Colorless|10|100| |◇],[Schnabelhieb|Colorless|30|100| |◇◇]]|1|Common
+0022|Ibitak|Colorless|90|[[Schnabel|Colorless|30|100| |◇◇],[Bohrschnabel|Colorless|60|100| |◇◇◇]]|2|Ultra Rare
+0023|Rettan|Grass|50|[[Giftstachel|Grass|10|100|Wirf eine Münze. Bei Kopf ist das verteidigende Pokemon vergiftet|🌿],[Wickel|Grass|20|100|Wirf eine Münze. Bei Kopf kann das verteidigende Pokemon in der nächsten Runde nicht angreifen|🌿🌿]]|1|Common
+0024|Arbok|Grass|90|[[Giftzahn|Grass|30|100|Das verteidigende Pokemon ist vergiftet|🌿🌿],[Würgegriff|Grass|60|80|Wirf eine Münze. Bei Kopf kann das verteidigende Pokemon in der nächsten Runde nicht angreifen|🌿🌿🌿]]|2|Ultra Rare
+0025|Pikachu|Lightning|60|[[Donnerschock|Lightning|20|100|Wirf eine Münze. Bei Kopf ist das verteidigende Pokemon paralysiert|⚡],[Donnerblitz|Lightning|60|100|Lege alle Lightning-Energien von Pikachu auf den Ablagestapel|⚡⚡⚡]]|1|Ultra Rare
+0026|Raichu|Lightning|100|[[Donnerschock|Lightning|30|100|Wirf eine Münze. Bei Kopf ist das verteidigende Pokemon paralysiert|⚡],[Donner|Lightning|80|100|Lege 1 Lightning-Energie von Raichu auf den Ablagestapel|⚡⚡⚡]]|2|Secret Rare
+0027|Sandan|Fighting|50|[[Kratzfurie|Colorless|10|100| |◇],[Sandangriff|Fighting|20|100|Der nächste Angriff des verteidigenden Pokemon hat eine Trefferchance von 50|⛰️]]|1|Common
+0028|Sandamer|Fighting|90|[[Schaufler|Fighting|30|100|Verhindert während des nächsten Zuges deines Gegners allen Schaden und alle Effekte von Angriffen gegen Sandamer|⛰️⛰️],[Schlitzer|Fighting|60|100| |⛰️⛰️◇]]|2|Ultra Rare
+0029|Nidoran♀|Grass|50|[[Kratzer|Colorless|10|100| |◇],[Giftstachel|Grass|20|100|Wirf eine Münze. Bei Kopf ist das verteidigende Pokemon vergiftet|🌿]]|1|Common
+0030|Nidorina|Grass|70|[[Kratzer|Colorless|20|100| |◇◇],[Giftstachel|Grass|30|100|Wirf eine Münze. Bei Kopf ist das verteidigende Pokemon vergiftet|🌿🌿]]|1|Uncommon
+0031|Nidoqueen|Grass|110|[[Giftstachel|Grass|40|100|Das verteidigende Pokemon ist vergiftet|🌿🌿],[Königinnenschlag|Grass|80|100| |🌿🌿🌿]]|3|Secret Rare
+0032|Nidoran♂|Grass|50|[[Kratzer|Colorless|10|100| |◇],[Giftstachel|Grass|20|100|Wirf eine Münze. Bei Kopf ist das verteidigende Pokemon vergiftet|🌿]]|1|Common
+0033|Nidorino|Grass|70|[[Kratzer|Colorless|20|100| |◇◇],[Hornattacke|Grass|30|100| |🌿🌿]]|1|Uncommon
+0034|Nidoking|Grass|120|[[Hornattacke|Grass|50|100| |🌿🌿],[Erdbeben|Fighting|90|100|Fügt jedem deiner Bank-Pokemon 10 Schadenspunkte zu|⛰️⛰️⛰️]]|3|Secret Rare
+0035|Piepi|Colorless|50|[[Klaps|Colorless|10|100| |◇],[Gesang|Colorless|0|60|Das verteidigende Pokemon schläft ein|◇]]|1|Common
+0036|Pixi|Colorless|90|[[Klaps|Colorless|30|100| |◇◇],[Metronom|Colorless|50|100|Wähle 1 Angriff des verteidigenden Pokemon und benutze ihn als diesen Angriff|◇◇◇]]|1|Ultra Rare
+0037|Vulpix|Fire|50|[[Glut|Fire|20|100| |🔥],[Feuerwirbel|Fire|30|100| |🔥🔥]]|1|Common
+0038|Vulnona|Fire|90|[[Flammenwurf|Fire|50|100|Lege 1 Feuer-Energie von Vulnona auf den Ablagestapel|🔥🔥🔥],[Feuersturm|Fire|80|100| |🔥🔥🔥◇]]|2|Ultra Rare
+0039|Pummeluff|Colorless|70|[[Gesang|Colorless|0|60|Das verteidigende Pokemon schläft ein|◇],[Kopfnuss|Colorless|30|100| |◇◇]]|2|Common
+0040|Knuddeluff|Colorless|100|[[Walzer|Colorless|40|100| |◇◇],[Knuddelsturm|Colorless|70|100|Das verteidigende Pokemon schläft ein|◇◇◇]]|2|Ultra Rare
+0041|Zubat|Grass|40|[[Biss|Colorless|10|100| |◇],[Superschall|Grass|0|50|Das verteidigende Pokemon ist verwirrt|🌿]]|1|Common
+0042|Golbat|Grass|80|[[Biss|Colorless|30|100| |◇◇],[Flügelschlag|Grass|50|100| |🌿🌿]]|1|Uncommon
+0043|Myrapla|Grass|50|[[Absorber|Grass|10|100|Heile 10 Schadenspunkte von Myrapla|🌿],[Schlafpuder|Grass|20|75|Das verteidigende Pokemon schläft ein|🌿🌿]]|1|Common
+0044|Duflor|Grass|70|[[Giftpuder|Grass|20|100|Das verteidigende Pokemon ist vergiftet|🌿],[Schlafpuder|Grass|0|75|Das verteidigende Pokemon schläft ein|🌿🌿]]|2|Uncommon
+0045|Giflor|Grass|100|[[Stachelspore|Grass|40|100|Wirf eine Münze. Bei Kopf ist das verteidigende Pokemon paralysiert|🌿🌿],[Solarstrahl|Grass|70|100| |🌿🌿🌿]]|2|Ultra Rare
+0046|Paras|Grass|50|[[Kratzfurie|Colorless|10|100| |◇],[Pilzsporen|Grass|20|100|Das verteidigende Pokemon schläft ein|🌿🌿]]|1|Common
+0047|Parasek|Grass|90|[[Pilzsporen|Grass|30|100|Das verteidigende Pokemon schläft ein|🌿🌿],[Gigasaft|Grass|60|100|Heile 20 Schadenspunkte von Parasek|🌿🌿🌿]]|2|Rare
+0048|Bluzuk|Grass|60|[[Tackle|Colorless|10|100| |◇],[Superschall|Grass|0|70|Das verteidigende Pokemon ist verwirrt|🌿]]|1|Common
+0049|Omot|Grass|90|[[Giftpuder|Grass|30|100|Das verteidigende Pokemon ist vergiftet|🌿🌿],[Psychoklinge|Psychic|60|100| |🔮🔮◇]]|1|Ultra Rare
+0050|Digda|Fighting|40|[[Schaufler|Fighting|10|100| |⛰️],[Graben|Fighting|30|100|Während des nächsten Zuges deines Gegners erhält Digda keinen Schaden durch Angriffe|⛰️⛰️]]|1|Common
+0051|Digdri|Fighting|80|[[Schaufler|Fighting|30|100| |⛰️⛰️],[Dreifachschlag|Fighting|60|80|Wirf 3 Münzen. Dieser Angriff fügt 20 Schadenspunkte für jeden Kopf zu|⛰️⛰️⛰️]]|2|Ultra Rare
+0052|Mauzi|Colorless|50|[[Kratzer|Colorless|10|100| |◇],[Münzwurf|Colorless|0|100|Wirf eine Münze. Bei Kopf ziehst du 2 Karten|◇]]|1|Common
+0053|Snobilikat|Colorless|90|[[Kratzfurie|Colorless|30|100| |◇◇],[Slash|Colorless|60|100| |◇◇◇]]|1|Rare
+0054|Enton|Water|60|[[Kopfnuss|Colorless|10|100| |◇],[Aquaknarre|Water|30|100| |💧💧]]|1|Common
+0055|Entoron|Water|100|[[Aquaknarre|Water|40|100| |💧💧],[Hydropuls|Water|70|100|Das verteidigende Pokemon ist verwirrt|💧💧💧]]|2|Ultra Rare
+0056|Menki|Fighting|50|[[Kratzfurie|Colorless|20|100| |◇],[Raserei|Fighting|30|80|Wirf eine Münze. Bei Kopf fügt dieser Angriff 20 weitere Schadenspunkte zu|⛰️⛰️]]|1|Common
+0057|Rasaff|Fighting|90|[[Karateschlag|Fighting|40|100| |⛰️⛰️],[Raserei|Fighting|70|80|Wirf eine Münze. Bei Kopf fügt dieser Angriff 30 weitere Schadenspunkte zu|⛰️⛰️⛰️]]|1|Ultra Rare
+0058|Fukano|Fire|60|[[Biss|Colorless|10|100| |◇],[Glut|Fire|30|100| |🔥🔥]]|1|Common
+0059|Arkani|Fire|110|[[Flammenwurf|Fire|60|100|Lege 1 Feuer-Energie von Arkani auf den Ablagestapel|🔥🔥🔥],[Feuersturm|Fire|90|100| |🔥🔥🔥🔥]]|2|Secret Rare
+0060|Quapsel|Water|50|[[Kopfnuss|Colorless|10|100| |◇],[Aquaknarre|Water|20|100| |💧]]|1|Common
+0061|Quaputzi|Water|80|[[Aquaknarre|Water|30|100| |💧💧],[Hypnose|Water|0|60|Das verteidigende Pokemon schläft ein|💧💧]]|1|Uncommon
+0062|Quappo|Water|110|[[Doppelkick|Fighting|40|80|Wirf 2 Münzen. Dieser Angriff fügt 20 Schadenspunkte für jeden Kopf zu|⛰️⛰️],[Hydropumpe|Water|80|100| |💧💧💧]]|3|Secret Rare
+0063|Abra|Psychic|40|[[Teleport|Psychic|0|100|Tausche Abra gegen 1 Pokemon auf deiner Bank aus|🔮]]|1|Common
+0064|Kadabra|Psychic|70|[[Psychoklinge|Psychic|30|100| |🔮🔮],[Psychowelle|Psychic|50|100| |🔮🔮◇]]|2|Uncommon
+0065|Simsala|Psychic|100|[[Psychokinese|Psychic|50|100| |🔮🔮],[Psi-Schlag|Psychic|90|100| |🔮🔮🔮]]|2|Secret Rare
+0066|Machollo|Fighting|60|[[Karateschlag|Fighting|20|100| |⛰️],[Low Kick|Fighting|30|100| |⛰️⛰️]]|2|Common
+0067|Maschock|Fighting|80|[[Karateschlag|Fighting|30|100| |⛰️⛰️],[Bodyslam|Colorless|50|100|Wirf eine Münze. Bei Kopf ist das verteidigende Pokemon paralysiert|⛰️⛰️◇]]|2|Uncommon
+0068|Machomei|Fighting|120|[[Überroller|Fighting|60|100| |⛰️⛰️],[Submission|Fighting|100|100|Machomei fügt sich selbst 20 Schadenspunkte zu|⛰️⛰️⛰️⛰️]]|3|Secret Rare
+0069|Knofensa|Grass|50|[[Rankenhieb|Grass|10|100| |🌿],[Giftpeitsche|Grass|20|100|Das verteidigende Pokemon ist vergiftet|🌿🌿]]|1|Common
+0070|Ultrigaria|Grass|80|[[Rankenhieb|Grass|30|100| |🌿🌿],[Säure|Grass|40|100| |🌿🌿]]|2|Uncommon
+0071|Sarzenia|Grass|110|[[Giftpeitsche|Grass|40|100|Das verteidigende Pokemon ist vergiftet|🌿🌿],[Rasierblatt|Grass|80|100| |🌿🌿🌿]]|3|Ultra Rare
+0072|Tentacha|Water|50|[[Giftstachel|Water|10|100|Wirf eine Münze. Bei Kopf ist das verteidigende Pokemon vergiftet|💧],[Aquaknarre|Water|20|100| |💧💧]]|1|Common
+0073|Tentoxa|Water|100|[[Giftstachel|Water|30|100|Das verteidigende Pokemon ist vergiftet|💧💧],[Hydropumpe|Water|70|100| |💧💧💧]]|2|Ultra Rare
+0074|Kleinstein|Fighting|50|[[Tackle|Colorless|10|100| |◇],[Steinwurf|Fighting|30|90| |⛰️⛰️]]|2|Common
+0075|Georok|Fighting|80|[[Steinwurf|Fighting|30|100| |⛰️⛰️],[Felswurf|Fighting|50|90| |⛰️⛰️◇]]|2|Uncommon
+0076|Geowaz|Fighting|120|[[Steinwurf|Fighting|50|100| |⛰️⛰️],[Erdbeben|Fighting|90|100|Fügt jedem deiner Bank-Pokemon 10 Schadenspunkte zu|⛰️⛰️⛰️⛰️]]|3|Secret Rare
+0077|Ponita|Fire|60|[[Tritt|Colorless|20|100| |◇],[Glut|Fire|30|100| |🔥🔥]]|1|Common
+0078|Gallopa|Fire|100|[[Stampfer|Colorless|30|100| |◇◇],[Feuertritt|Fire|70|100| |🔥🔥🔥]]|2|Ultra Rare
+0079|Flegmon|Water|70|[[Kopfnuss|Colorless|10|100| |◇],[Konfusion|Psychic|20|100|Wirf eine Münze. Bei Kopf ist das verteidigende Pokemon verwirrt|🔮]]|2|Common
+0080|Lahmus|Water|100|[[Konfusion|Psychic|30|100|Das verteidigende Pokemon ist verwirrt|🔮🔮],[Psychowelle|Psychic|60|100| |🔮🔮◇]]|3|Secret Rare
+0081|Magnetilo|Lightning|50|[[Tackle|Colorless|10|100| |◇],[Donnerschock|Lightning|20|100|Wirf eine Münze. Bei Kopf ist das verteidigende Pokemon paralysiert|⚡]]|1|Common
+0082|Magneton|Lightning|90|[[Donnerschock|Lightning|30|100|Wirf eine Münze. Bei Kopf ist das verteidigende Pokemon paralysiert|⚡⚡],[Donnerblitz|Lightning|70|100|Lege 1 Lightning-Energie von Magneton auf den Ablagestapel|⚡⚡⚡]]|2|Ultra Rare
+0083|Porenta|Colorless|70|[[Schnabel|Colorless|20|100| |◇],[Schwerttanz|Colorless|0|100|Der nächste Angriff von Porenta macht 30 Schadenspunkte mehr|◇◇]]|1|Uncommon
+0084|Dodu|Colorless|50|[[Schnabel|Colorless|10|100| |◇],[Doppelkick|Colorless|30|80|Wirf 2 Münzen. Dieser Angriff fügt 20 Schadenspunkte für jeden Kopf zu|◇◇]]|1|Common
+0085|Dodri|Colorless|90|[[Doppelkick|Colorless|40|80|Wirf 2 Münzen. Dieser Angriff fügt 20 Schadenspunkte für jeden Kopf zu|◇◇],[Dreifachstoß|Colorless|70|80|Wirf 3 Münzen. Dieser Angriff fügt 20 Schadenspunkte für jeden Kopf zu|◇◇◇]]|1|Ultra Rare
+0086|Jurob|Water|60|[[Kopfnuss|Colorless|10|100| |◇],[Eissplitter|Water|20|100| |💧💧]]|1|Common
+0087|Jugong|Water|100|[[Eisschuss|Water|40|100| |💧💧],[Aurorastrahl|Water|70|100| |💧💧💧]]|2|Ultra Rare
+0088|Sleima|Psychic|60|[[Schlammwurf|Psychic|20|100| |🔮],[Giftgas|Psychic|0|70|Das verteidigende Pokemon ist vergiftet|🔮🔮]]|2|Common
+0089|Sleimok|Psychic|100|[[Schlammbombe|Psychic|40|100|Das verteidigende Pokemon ist vergiftet|🔮🔮],[Giftwolke|Psychic|70|100|Das verteidigende Pokemon ist vergiftet|🔮🔮🔮]]|2|Ultra Rare
+0090|Muschas|Water|50|[[Tackle|Colorless|10|100| |◇],[Muschelschlag|Water|20|100| |💧]]|2|Common
+0091|Austos|Water|100|[[Eisspeer|Water|30|100| |💧💧],[Stachelkanone|Water|60|80|Wirf 2 Münzen. Dieser Angriff fügt 20 Schadenspunkte für jeden Kopf zu|💧💧💧]]|3|Ultra Rare
+0092|Nebulak|Psychic|50|[[Schlecker|Psychic|10|100|Wirf eine Münze. Bei Kopf ist das verteidigende Pokemon paralysiert|🔮],[Hypnose|Psychic|0|60|Das verteidigende Pokemon schläft ein|🔮]]|1|Common
+0093|Alpollo|Psychic|70|[[Schlecker|Psychic|20|100|Wirf eine Münze. Bei Kopf ist das verteidigende Pokemon paralysiert|🔮],[Nachtnebel|Psychic|50|100| |🔮🔮]]|1|Uncommon
+0094|Gengar|Psychic|110|[[Nachtnebel|Psychic|50|100| |🔮🔮],[Traumfresser|Psychic|90|100|Dieser Angriff kann nur verwendet werden, wenn das verteidigende Pokemon schläft|🔮🔮🔮]]|2|Secret Rare
+0095|Onix|Fighting|90|[[Steinwurf|Fighting|30|100| |⛰️⛰️],[Felsgrab|Fighting|60|90| |⛰️⛰️⛰️]]|3|Ultra Rare
+0096|Traumato|Psychic|60|[[Konfusion|Psychic|20|100|Wirf eine Münze. Bei Kopf ist das verteidigende Pokemon verwirrt|🔮],[Hypnose|Psychic|0|60|Das verteidigende Pokemon schläft ein|🔮🔮]]|1|Common
+0097|Hypno|Psychic|100|[[Psychokinese|Psychic|40|100| |🔮🔮],[Traumwelle|Psychic|80|100|Das verteidigende Pokemon schläft ein|🔮🔮🔮]]|2|Ultra Rare
+0098|Krabby|Water|50|[[Klammer|Water|20|100| |💧],[Blubber|Water|30|100| |💧💧]]|2|Common
+0099|Kingler|Water|100|[[Krabbhammer|Water|50|100| |💧💧],[Krabbenhieb|Water|80|100| |💧💧💧]]|3|Ultra Rare
+0100|Voltobal|Lightning|50|[[Tackle|Colorless|10|100| |◇],[Elektroschock|Lightning|20|100|Wirf eine Münze. Bei Kopf ist das verteidigende Pokemon paralysiert|⚡]]|1|Common
+0101|Elektek|Lightning|100|[[Donnerschock|Lightning|30|100|Das verteidigende Pokemon ist paralysiert|⚡⚡],[Donnerblitz|Lightning|80|100|Lege 1 Lightning-Energie von Elektek auf den Ablagestapel|⚡⚡⚡]]|2|Ultra Rare
+0102|Owei|Grass|60|[[Kopfnuss|Colorless|10|100| |◇],[Psychokinese|Psychic|30|100| |🔮🔮]]|1|Common
+0103|Kokowei|Grass|100|[[Samenbomben|Grass|40|100| |🌿🌿],[Psychoschlag|Psychic|80|100| |🔮🔮🔮]]|2|Ultra Rare
+0104|Tragosso|Fighting|50|[[Kopfnuss|Colorless|10|100| |◇],[Knochenkeule|Fighting|30|100| |⛰️⛰️]]|1|Common
+0105|Knogga|Fighting|90|[[Knochenkeule|Fighting|40|100| |⛰️⛰️],[Knochensturm|Fighting|70|100|Wirf eine Münze. Bei Kopf kann das verteidigende Pokemon in der nächsten Runde nicht angreifen|⛰️⛰️⛰️]]|1|Ultra Rare
+0106|Kicklee|Fighting|80|[[Doppelkick|Fighting|30|80|Wirf 2 Münzen. Dieser Angriff fügt 20 Schadenspunkte für jeden Kopf zu|⛰️⛰️],[Mega-Kick|Fighting|60|90| |⛰️⛰️⛰️]]|1|Ultra Rare
+0107|Nockchan|Fighting|80|[[Jab|Fighting|20|100| |⛰️],[Schlaghagel|Fighting|60|80|Wirf 3 Münzen. Dieser Angriff fügt 20 Schadenspunkte für jeden Kopf zu|⛰️⛰️⛰️]]|1|Ultra Rare
+0108|Schlurp|Colorless|80|[[Schlecker|Colorless|20|100|Wirf eine Münze. Bei Kopf ist das verteidigende Pokemon paralysiert|◇],[Wickel|Colorless|30|80|Wirf eine Münze. Bei Kopf kann das verteidigende Pokemon in der nächsten Runde nicht angreifen|◇◇]]|2|Rare
+0109|Smogon|Grass|50|[[Giftgas|Grass|0|70|Das verteidigende Pokemon ist vergiftet|🌿],[Tackle|Colorless|20|100| |◇◇]]|1|Common
+0110|Smogmog|Grass|100|[[Giftwolke|Grass|30|100|Das verteidigende Pokemon ist vergiftet|🌿🌿],[Explosion|Colorless|100|100|Smogmog fügt sich selbst 50 Schadenspunkte zu|◇◇◇]]|2|Ultra Rare
+0111|Rihorn|Fighting|80|[[Stampfer|Fighting|30|100| |⛰️⛰️],[Hornattacke|Fighting|50|100| |⛰️⛰️◇]]|3|Common
+0112|Rizeros|Fighting|110|[[Hornattacke|Fighting|50|100| |⛰️⛰️],[Felsgrab|Fighting|80|90| |⛰️⛰️⛰️]]|3|Ultra Rare
+0113|Chaneira|Colorless|120|[[Klaps|Colorless|20|100| |◇],[Heilung|Colorless|0|100|Heile 30 Schadenspunkte von Chaneira|◇◇]]|2|Ultra Rare
+0114|Tangela|Grass|70|[[Rankenhieb|Grass|20|100| |🌿],[Würgegriff|Grass|50|80|Wirf eine Münze. Bei Kopf kann das verteidigende Pokemon in der nächsten Runde nicht angreifen|🌿🌿🌿]]|2|Uncommon
+0115|Kangama|Colorless|100|[[Kometenhieb|Colorless|30|100| |◇◇],[Mega-Kick|Colorless|70|90| |◇◇◇◇]]|2|Ultra Rare
+0116|Seeper|Water|50|[[Blubber|Water|20|100| |💧],[Aquaknarre|Water|30|100| |💧💧]]|1|Common
+0117|Seemon|Water|80|[[Blubber|Water|30|100| |💧💧],[Wasserstrahl|Water|50|100| |💧💧💧]]|2|Uncommon
+0118|Goldini|Water|50|[[Platscher|Water|10|100| |💧],[Hornattacke|Water|30|100| |💧💧]]|1|Common
+0119|Golking|Water|90|[[Hornattacke|Water|40|100| |💧💧],[Hornbohrer|Water|70|80| |💧💧💧]]|2|Ultra Rare
+0120|Sterndu|Water|50|[[Tackle|Colorless|10|100| |◇],[Sternschauer|Water|20|100| |💧]]|1|Common
+0121|Starmie|Water|90|[[Sternschauer|Water|30|100| |💧💧],[Psystrahl|Psychic|60|100|Das verteidigende Pokemon ist verwirrt|🔮🔮◇]]|1|Ultra Rare
+0122|Pantimos|Psychic|70|[[Konfusion|Psychic|20|100|Das verteidigende Pokemon ist verwirrt|🔮],[Barriere|Psychic|0|100|Verhindert während des nächsten Zuges deines Gegners allen Schaden durch Angriffe gegen Pantimos|🔮🔮]]|1|Secret Rare
+0123|Sichlor|Grass|80|[[Schwerttanz|Colorless|0|100|Der nächste Angriff von Sichlor macht 30 Schadenspunkte mehr|◇],[Schlitzer|Grass|50|100| |🌿🌿]]|1|Ultra Rare
+0124|Rossana|Psychic|70|[[Kuss|Psychic|20|100|Das verteidigende Pokemon schläft ein|🔮],[Psychowelle|Psychic|50|100| |🔮🔮]]|2|Ultra Rare
+0125|Elektek|Lightning|80|[[Donnerschock|Lightning|20|100|Wirf eine Münze. Bei Kopf ist das verteidigende Pokemon paralysiert|⚡],[Donnerfaust|Lightning|50|100| |⚡⚡⚡]]|2|Rare
+0126|Magmar|Fire|80|[[Glut|Fire|30|100| |🔥🔥],[Feuerfaust|Fire|50|100|Wirf eine Münze. Bei Kopf ist das verteidigende Pokemon verbrannt|🔥🔥🔥]]|2|Ultra Rare
+0127|Pinsir|Grass|80|[[Klammer|Grass|20|100| |🌿],[Guillotine|Grass|60|80| |🌿🌿🌿]]|2|Ultra Rare
+0128|Tauros|Colorless|90|[[Stampfer|Colorless|20|100| |◇],[Raserei|Colorless|40|80|Wirf eine Münze. Bei Kopf fügt dieser Angriff 30 weitere Schadenspunkte zu|◇◇◇]]|2|Ultra Rare
+0129|Karpador|Water|30|[[Platscher|Water|0|100|Dieser Angriff macht nichts|💧]]|1|Common
+0130|Garados|Water|120|[[Biss|Water|30|100| |💧💧],[Hydropumpe|Water|100|100|Dieser Angriff macht 20 Schadenspunkte weniger für jede fehlende Wasser-Energie|💧💧💧💧]]|3|Secret Rare
+0131|Lapras|Water|100|[[Eissplitter|Water|30|100| |💧💧],[Aurorastrahl|Water|70|100| |💧💧💧]]|2|Ultra Rare
+0132|Ditto|Colorless|60|[[Wandlung|Colorless|0|100|Ditto nimmt den Namen, Typ und die Angriffe des verteidigenden Pokemon an|◇◇]]|1|Secret Rare
+0133|Evoli|Colorless|50|[[Tackle|Colorless|10|100| |◇],[Sandangriff|Colorless|0|100|Der nächste Angriff des verteidigenden Pokemon hat eine Trefferchance von 50|◇]]|1|Common
+0134|Aquana|Water|100|[[Aquaknarre|Water|30|100| |💧💧],[Hydropumpe|Water|80|100| |💧💧💧]]|2|Ultra Rare
+0135|Blitza|Lightning|90|[[Donnerschock|Lightning|30|100|Wirf eine Münze. Bei Kopf ist das verteidigende Pokemon paralysiert|⚡⚡],[Donner|Lightning|70|100|Lege 1 Lightning-Energie von Blitza auf den Ablagestapel|⚡⚡⚡]]|1|Ultra Rare
+0136|Flamara|Fire|90|[[Glut|Fire|30|100| |🔥🔥],[Feuerzahn|Fire|70|100|Wirf eine Münze. Bei Kopf ist das verteidigende Pokemon verbrannt|🔥🔥🔥]]|2|Ultra Rare
+0137|Porygon|Colorless|60|[[Tackle|Colorless|20|100| |◇],[Umwandlung|Colorless|0|100|Ändere den Typ des verteidigenden Pokemon in einen Typ deiner Wahl|◇◇]]|1|Secret Rare
+0138|Amonitas|Water|70|[[Klammer|Water|20|100| |💧],[Wasserpistole|Water|30|100| |💧💧]]|2|Uncommon
+0139|Amoroso|Water|100|[[Wasserpistole|Water|40|100| |💧💧],[Hydropumpe|Water|80|100| |💧💧💧]]|3|Ultra Rare
+0140|Kabuto|Fighting|60|[[Kratzer|Colorless|10|100| |◇],[Sandangriff|Fighting|20|100|Der nächste Angriff des verteidigenden Pokemon hat eine Trefferchance von 50|⛰️]]|1|Uncommon
+0141|Kabutops|Fighting|100|[[Schlitzer|Fighting|40|100| |⛰️⛰️],[Aquaklinge|Water|70|100| |💧💧⛰️]]|2|Ultra Rare
+0142|Aerodactyl|Colorless|90|[[Flügelschlag|Colorless|30|100| |◇◇],[Urzeitkraft|Fighting|70|100|Entferne 1 Energie vom verteidigenden Pokemon|⛰️⛰️◇]]|1|Secret Rare
+0143|Relaxo|Colorless|120|[[Tackle|Colorless|30|100| |◇◇],[Schlafender Riese|Colorless|80|100|Relaxo schläft nach diesem Angriff ein|◇◇◇◇]]|4|Ultra Rare
+0144|Arktos|Water|100|[[Eisschuss|Water|30|100| |💧💧],[Eisstrahl|Water|70|100|Das verteidigende Pokemon ist paralysiert|💧💧💧]]|2|Secret Rare
+0145|Zapdos|Lightning|100|[[Donnerschock|Lightning|30|100|Wirf eine Münze. Bei Kopf ist das verteidigende Pokemon paralysiert|⚡⚡],[Donner|Lightning|90|100|Lege 1 Lightning-Energie von Zapdos auf den Ablagestapel|⚡⚡⚡⚡]]|2|Secret Rare
+0146|Lavados|Fire|100|[[Glut|Fire|30|100| |🔥🔥],[Feuersturm|Fire|90|100|Lege 1 Feuer-Energie von Lavados auf den Ablagestapel|🔥🔥🔥🔥]]|2|Secret Rare
+0147|Dratini|Water|50|[[Tackle|Colorless|10|100| |◇],[Drachenwut|Water|30|100| |💧💧]]|1|Common
+0148|Dragonir|Water|80|[[Drachenwut|Water|30|100| |💧💧],[Drachenpuls|Water|60|100| |💧💧💧]]|2|Uncommon
+0149|Dragoran|Colorless|120|[[Drachenstoß|Colorless|50|100| |◇◇◇],[Hyperstrahl|Colorless|100|100|Lege 1 Energie vom verteidigenden Pokemon auf den Ablagestapel|◇◇◇◇]]|3|Secret Rare
+0150|Mewtu|Psychic|120|[[Psychowelle|Psychic|40|100| |🔮🔮],[Psychoantrieb|Psychic|100|100|Lege 2 Energie von Mewtu auf den Ablagestapel|🔮🔮🔮🔮]]|2|Secret Rare
+0151|Mew|Psychic|100|[[Wandlung|Psychic|0|100|Mew kann einen Angriff eines beliebigen Pokemon auf dem Spielfeld kopieren|🔮],[Psychoklinge|Psychic|70|100| |🔮🔮🔮]]|1|Secret Rare
